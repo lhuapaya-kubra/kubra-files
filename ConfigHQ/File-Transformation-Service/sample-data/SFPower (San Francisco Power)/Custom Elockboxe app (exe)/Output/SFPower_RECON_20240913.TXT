@@ -1,0 +1,1 @@
+Order/Auth ID,Site Customer ID,PNM Transaction ID,PNM Date,PNM Time (PST),Principal Amount,Commissions,NetAmount,

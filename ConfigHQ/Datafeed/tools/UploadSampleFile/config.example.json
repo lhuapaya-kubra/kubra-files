@@ -1,0 +1,9 @@
+{
+    "client_id": "YOUR_KUBRA_CLIENT_ID",
+    "client_secret": "YOUR_CLIENT_SECRET",
+    "space_krn": "krn:spc:YOUR_SPACE_KRN",
+    "realm": "sandbox",
+    "datafeed_type": "balanceFeeds",
+    "token_url": "https://api.kubra.io/authentication/api/v2/token",
+    "api_base_url": "https://api.kubra.io/datafeed/v3"
+}

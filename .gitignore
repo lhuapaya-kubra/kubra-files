@@ -1,3 +1,6 @@
 .obsidian/workspace*
 .obsidian/cache
 .trash/
+
+# Oversized sample files kept local-only (exceed GitHub's 100MB limit)
+ConfigHQ/File-Transformation-Service/sample-data/PGE (Pacific Gas and Electric)/Custom Elockbox Returns app (exe) - they also have memo files/Input/TRPGE_20240917-413445.csv

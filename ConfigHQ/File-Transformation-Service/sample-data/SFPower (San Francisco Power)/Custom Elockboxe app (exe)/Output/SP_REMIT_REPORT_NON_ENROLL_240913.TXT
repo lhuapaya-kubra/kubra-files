@@ -1,0 +1,25 @@
+
+
+
+Remittance Report for SAN FRANCISCO POWER
+Settlement Date : 09/13/2024
+
+Account Number      Paid Date        Amount     Pay Source     Pay Method
+--------------     ----------     ---------     ---------     ---------
+3720000000          09/12/2024     503.82          ONE          CC       
+8494000000          09/12/2024     67.94           ONE          CC       
+8842139407          09/12/2024     35.36           ONE          CC       
+0712000000          09/12/2024     64.74           ONE          CC       
+1521000000          09/12/2024     999.26          ONE          CC       
+3451829716          09/12/2024     83.10           ONE          CC       
+
+Summary                 Dollars            Records
+---------------------   -------------      -------
+ONE CC  Total $:        1754.22               6          
+ONE ACH Total $:        0.00                  0          
+IVR CC  Total $:        0.00                  0          
+IVR ACH Total $:        0.00                  0          
+ONE CSH Total $:        0.00                  0          
+---------------------------------------------------
+Grand Total:            1754.22               6          
+

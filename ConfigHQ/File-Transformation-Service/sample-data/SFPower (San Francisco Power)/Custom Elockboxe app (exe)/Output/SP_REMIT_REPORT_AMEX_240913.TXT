@@ -1,0 +1,16 @@
+
+
+
+Remittance Report for SAN FRANCISCO POWER
+Settlement Date : 09/13/2024
+
+Account Number      Paid Date        Amount     Pay Source     Pay Method
+--------------     ----------     ---------     ---------     ---------
+
+Summary                 Dollars            Records
+---------------------   -------------      -------
+ONE CC  Total $:        0.00                  0          
+IVR CC  Total $:        0.00                  0          
+---------------------------------------------------
+Grand Total:            0.00                  0          
+

@@ -1,0 +1,1138 @@
+1     CWD PAYMENT FILE 202605050307METAVANTE                                    
+50954000000000120260505                                                         
+609540000010000000635  1133950608CHEC                                           
+7JAMIE   QUIST                                                                  
+609540000020000001905  1565358685CHEC                                           
+7PETER V FINEFRO                                                                
+609540000030000010000  1788113324CHEC                                           
+7PEGGY A JOHNSON                                                                
+609540000040000002696  7270530000CHEC                                           
+7KARIE R FERJANE                                                                
+609540000050000007055  3831290002CHEC                                           
+7KARIE R FERJANE                                                                
+609540000060000009451  9339830000CHEC                                           
+7SORBELLO ANTHON                                                                
+609540000070000003500  6761300485CHEC                                           
+7JENNIFER   LACO                                                                
+609540000080000001905  5760932158CHEC                                           
+7BARNONE LLC                                                                    
+609540000090000000990  5380012012CHEC                                           
+7REBECCA L BREHM                                                                
+609540000100000004700  4033453966CHEC                                           
+7BLESSING   EMER                                                                
+609540000110000003580  3698020000CHEC                                           
+7POPE WILLIAM                                                                   
+609540000120000001754  1008352483CHEC                                           
+7MARY L WASHINGT                                                                
+609540000130000001500  6896732926CHEC                                           
+7MATTHEW   EICHE                                                                
+609540000140000001890  6540319918CHEC                                           
+7MARC   BLUMENTH                                                                
+609540000150000004311354338110032CHEC                                           
+7PATRICIA C BUFO                                                                
+609540000160000002500  8657970004CHEC                                           
+7MELANIE D TYLER                                                                
+609540000170000002115  2112150670CHEC                                           
+7DIANA L BRASHEA                                                                
+609540000180000005748  1504200002CHEC                                           
+7NOREEN A BOYLAN                                                                
+609540000190000001768  9297413187CHEC                                           
+7ROBERT J HORAN                                                                 
+609540000200000004440  2505693347CHEC                                           
+7ROBERT J HORAN                                                                 
+609540000210000002000  2093030000CHEC                                           
+7MICHELE A ADAMS                                                                
+609540000220000010000  3209450000CHEC                                           
+7MARY CATHERINE                                                                 
+609540000230000002696  3101888460CHEC                                           
+7KATHLEEN BURKHA                                                                
+609540000240000004414  8511630000CHEC                                           
+7MICHELLE L LAMB                                                                
+609540000250000006718  1345034134CHEC                                           
+7LENA   KOMICH                                                                  
+609540000260000007563  3385700000CHEC                                           
+7REGINA PITTS TH                                                                
+609540000270000004308  8612718828CHEC                                           
+7COURTNEY A THAN                                                                
+609540000280000009670  5750081858CHEC                                           
+7LENA   KOMICH                                                                  
+609540000290000001890  5151107239CHEC                                           
+7BETH W MARGOLIS                                                                
+609540000300000006000  9148459648CHEC                                           
+7MEGAN S NEWELL                                                                 
+609540000310000066237  6254320000CHEC                                           
+7DRAGON PALACE                                                                  
+609540000320000002700  0443479897CHEC                                           
+7SWANSON JENNIFE                                                                
+609540000330000007471  5642947280CHEC                                           
+7TREER JR STEVEN                                                                
+609540000340000003133  1606061689CHEC                                           
+7CHRISTINA M CAP                                                                
+609540000350000003419  2184992287CHEC                                           
+7GAIL M DANFORD                                                                 
+609540000360000008867  3863950000CHEC                                           
+7REGINALD A STEV                                                                
+609540000370000006457  1635962172CHEC                                           
+7GRIEVE KRISTI                                                                  
+609540000380000002000  8283650002CHEC                                           
+7BRENDA M HORVAT                                                                
+609540000390000010978  6341950002CHEC                                           
+7JENNIFER E PHIL                                                                
+609540000400000005000  0804590003CHEC                                           
+7LATOYA Y BENTLE                                                                
+609540000410000005748  9236670003CHEC                                           
+7JEFFREY   SALKI                                                                
+609540000420000005000  6937870470CHEC                                           
+7CHARLEA L SMITH                                                                
+609540000430000007055  8987450002CHEC                                           
+7KRISTEN   WALLA                                                                
+609540000440000004993  5054210000CHEC                                           
+7KRISTEN   WALLA                                                                
+609540000450000006252  5232650000CHEC                                           
+7WOLLSCHLEGER DA                                                                
+609540000460000008867  5658250002CHEC                                           
+7JOHN M BOURNE                                                                  
+609540000470000002801  2203130000CHEC                                           
+7DENISE   WALKER                                                                
+609540000480000012844  3828490597CHEC                                           
+7DYE HARDER LLC                                                                 
+609540000490000004308  7805563704CHEC                                           
+7BRENT JESSILYN                                                                 
+609540000500000005263  1442250232CHEC                                           
+7SCHEIDEGGER SAR                                                                
+609540000510000001671  0678330000CHEC                                           
+7OTERO DAVID                                                                    
+609540000520000002500  5443515829CHEC                                           
+7BAXTER WILLIAM                                                                 
+609540000530000002429  1292420000CHEC                                           
+7WAYNE S HOLSHUE                                                                
+609540000540000007098670843970082CHEC                                           
+7WALID   ABOUNAD                                                                
+609540000550000013593  5840298174CHEC                                           
+7LUCAS VICTOR                                                                   
+609540000560000003198  3914220000CHEC                                           
+7JOHN F KIRBY                                                                   
+609540000570000010978  8633020693CHEC                                           
+7MANUEL   LLAPA                                                                 
+609540000580000011506  5628640459CHEC                                           
+7DELTA ALPHA LAM                                                                
+609540000590000004373  8083996377CHEC                                           
+7LISA   ELLIS                                                                   
+609540000600000005713  3762211422CHEC                                           
+7VANESSA A MEEK                                                                 
+609540000610000011482  2240196978CHEC                                           
+7VANESSA A MEEK                                                                 
+609540000620000004845  8097271737CHEC                                           
+7MINNICH EMILY                                                                  
+609540000630000005493  1794683791CHEC                                           
+7LISA   ELLIS                                                                   
+609540000640000001307  3773950003CHEC                                           
+7SEAN P SMITH                                                                   
+609540000650000010174  2608160003CHEC                                           
+7JENNIFER   EISE                                                                
+609540000660000001768  9130590039CHEC                                           
+7SAMMIE L DUNNER                                                                
+609540000670000007055  8404490003CHEC                                           
+7JAMES E BROWN                                                                  
+609540000680000010174  3082180003CHEC                                           
+7MARIA T DEAN                                                                   
+609540000690000012000  6641532910CHEC                                           
+7JULIE C BUGNO                                                                  
+609540000700000004440  3901727604CHEC                                           
+7SAJOVIC C                                                                      
+609540000710000004655  8142704669CHEC                                           
+7BERNARD E NORMA                                                                
+609540000720000003419  2401930000CHEC                                           
+7DEBRA A ELLIOTT                                                                
+609540000730000007559  2759670000CHEC                                           
+7DEBRA A ELLIOTT                                                                
+609540000740000004677  6931730000CHEC                                           
+7RADECKY TIMOTHY                                                                
+609540000750000006755  1935910000CHEC                                           
+7CYNTHIA J SCHMI                                                                
+609540000760000008363  3581750001CHEC                                           
+7ADEL MEBSAT SAL                                                                
+609540000770000004308  8442865895CHEC                                           
+7CELSO   CASTILL                                                                
+609540000780000001622  9878474647CHEC                                           
+7LINN   LECLAIR                                                                 
+609540000790000014097  3932769575CHEC                                           
+7PRATT EVIE                                                                     
+609540000800000001905  3910475299CHEC                                           
+7JACKIE   LINDQU                                                                
+609540000810000008363  6184350004CHEC                                           
+7WILLIAM C PRADA                                                                
+609540000820000004655  5445975183CHEC                                           
+7MICHELLE E OLS                                                                 
+609540000830000005920  0601592805CHEC                                           
+7GREGORY A YOUNG                                                                
+609540000840000008867  7992550003CHEC                                           
+7ROSALIE G ROSEN                                                                
+609540000850000007055  6822808219CHEC                                           
+7BRIAN P DEWITT                                                                 
+609540000860000000990  8056730000CHEC                                           
+7HEIDI   LONG                                                                   
+609540000870000007045  9870322123CHEC                                           
+7LEE V HOOPER                                                                   
+609540000880000004440  6121330035CHEC                                           
+7ERIC   CHHAY                                                                   
+609540000890000004184  1701730000CHEC                                           
+7JEANETTE   JAWO                                                                
+609540000900000002654  5366920000CHEC                                           
+7JOYCE B FRIED                                                                  
+609540000910000010978  5711550000CHEC                                           
+7LISA   YANAK                                                                   
+609540000920000005076  2282430000CHEC                                           
+7LISA   YANAK                                                                   
+609540000930000005415223589400092CHEC                                           
+7WINEMILLER DAVI                                                                
+609540000940000007559  3719350000CHEC                                           
+7WESLEY DAVID LU                                                                
+609540000950000002654  0292854802CHEC                                           
+7SUSAN A FLECHNE                                                                
+609540000960000008887  9600490001CHEC                                           
+7WILLIAM M VALEN                                                                
+609540000970000004107  1027060000CHEC                                           
+7WILLIAM   MENDA                                                                
+609540000980000006400  6399100006CHEC                                           
+7.   WEST PARK E                                                                
+609540000990000005700  8996480000CHEC                                           
+7.   WEST PARK E                                                                
+609540001000000005748  4491916939CHEC                                           
+7DENNIS M EWANKO                                                                
+609540001010000009888  9695923756CHEC                                           
+7TRACY L SCHOONE                                                                
+609540001020000003419  8490454069CHEC                                           
+7MARIE T GHANNOU                                                                
+609540001030000006591  3934679229CHEC                                           
+7MILAN IVAN JOVA                                                                
+609540001040000005769  9890506048CHEC                                           
+7KRISTIN   MARSA                                                                
+609540001050000009693  6816160185CHEC                                           
+7HANA 1 LLC                                                                     
+609540001060000001768  3032530000CHEC                                           
+7MARGARET   ARMS                                                                
+609540001070000016763  3547963905CHEC                                           
+7BETH A ADAMS                                                                   
+609540001080000014000  0143600001CHEC                                           
+7APRIL D QUINTIL                                                                
+609540001090000011500  6120750001CHEC                                           
+7HELEN M BRANNER                                                                
+609540001100000002000  2704154670CHEC                                           
+7HELEN M BRANNER                                                                
+609540001110000005677  6850240434CHEC                                           
+7ERIC   ZELL                                                                    
+609540001120000012285  9882786657CHEC                                           
+7JOSHUA L MUSSEL                                                                
+609540001130000002000  2846607564CHEC                                           
+7ALICIA   HOWERT                                                                
+609540001140000006690  2604482220CHEC                                           
+7LEGLER ADAM                                                                    
+609540001150000003233  2071620000CHEC                                           
+7JENKINS SUSAN                                                                  
+609540001160000007603  6683320000CHEC                                           
+7JASON   PUTMAN                                                                 
+609540001170000012368  6731035234CHEC                                           
+7MATTY KELLY                                                                    
+609540001180000002226  7920293575CHEC                                           
+7TURNER GEORGIA                                                                 
+609540001190000001890  8337471010CHEC                                           
+7STEPHEN   HOLLE                                                                
+609540001200000009000  6555616428CHEC                                           
+7MARTIN L HORVAT                                                                
+609540001210000002538  8383750005CHEC                                           
+7WILLIAM DEAN CO                                                                
+609540001220000002329  3982260001CHEC                                           
+7RONALD J KEMELH                                                                
+609540001230000010823  6186000000CHEC                                           
+7ERIC H NELSON                                                                  
+609540001240000004440  5475060001CHEC                                           
+7ERIC H NELSON                                                                  
+609540001250000017515  1670060001CHEC                                           
+7ERIC H NELSON                                                                  
+609540001260000008363  6174450000CHEC                                           
+7MICHELE T DANIE                                                                
+609540001270000000800  0499800000CHEC                                           
+7LATARI D FOSTER                                                                
+609540001280000003000  4789630000CHEC                                           
+7MICHAEL A SEIFR                                                                
+609540001290000005000  8646290001CHEC                                           
+7MICHAEL A SEIFR                                                                
+609540001300000004400  3372700005CHEC                                           
+7CHARLES   LOEB-                                                                
+609540001310000001500  2467030000CHEC                                           
+7DANIELLE N ROBI                                                                
+609540001320000005386  2417440000CHEC                                           
+7JOSEPH A SANFIL                                                                
+609540001330000011482  8116750002CHEC                                           
+7BILL J MANN                                                                    
+609540001340000006504  0578150000CHEC                                           
+7CELIA K JENNING                                                                
+609540001350000008363  8169060001CHEC                                           
+7THOMAS J KREN                                                                  
+609540001360000000762  3139652322CHEC                                           
+7DEMKOWICZ SANDR                                                                
+609540001370000002538  4230970000CHEC                                           
+7PATRICIA A MCGI                                                                
+609540001380000002159  0693210089CHEC                                           
+7MARIBETH   NIEM                                                                
+609540001390000010759  3944450003CHEC                                           
+7HENRY B KOON                                                                   
+609540001400000004100  9999391057CHEC                                           
+7CLIFFORD ELIZAB                                                                
+609540001410000008606  5856607893CHEC                                           
+7TRUVY I COHEN                                                                  
+609540001420000003752  0043020000CHEC                                           
+7MARK   DURANA                                                                  
+609540001430000007459  9689220000CHEC                                           
+7KUCHA HELEN                                                                    
+609540001440000004373  5374210000CHEC                                           
+7STEPHEN A KOLLI                                                                
+609540001450000003273  3172913637CHEC                                           
+7BLY JEAN                                                                       
+609540001460000002654  1799018446CHEC                                           
+7GAFFNEY MONICA                                                                 
+609540001470000004993  5796310000CHEC                                           
+7MARY K GYPP                                                                    
+609540001480000003419  2688278504CHEC                                           
+7JESSICA R MAIER                                                                
+609540001490000004184  2704920000CHEC                                           
+7THOMAS   NOVAK                                                                 
+609540001500000008363  4526485820CHEC                                           
+7RACHEL   LAGRAN                                                                
+609540001510000001139  3601357129CHEC                                           
+7KARYN S MUELLER                                                                
+609540001520000026508  7123411701CHEC                                           
+7JAMES F POHLE                                                                  
+609540001530000000990  8980636868CHEC                                           
+7MATTHEW C GREEN                                                                
+609540001540000003753  5450310000CHEC                                           
+7STEVEN J CIFRAN                                                                
+609540001550000007559  7223480002CHEC                                           
+7WENDY A GREEN                                                                  
+609540001560000005500  9824300003CHEC                                           
+7STEVEN J CIFRAN                                                                
+609540001570000005748  3060643278CHEC                                           
+7QIAOQING   ZHU                                                                 
+609540001580000002654  0980810000CHEC                                           
+7DEBORAH A MATUS                                                                
+609540001590000003637  2300260001CHEC                                           
+7MICHAEL R EBY                                                                  
+609540001600000005748  8977948258CHEC                                           
+7PHILIPP CHRISTI                                                                
+609540001610000001825  0150450001CHEC                                           
+7MICHAEL E CHRIS                                                                
+609540001620000004184  1639092201CHEC                                           
+7CONNOLLY ANNE                                                                  
+609540001630000000800  0422730000CHEC                                           
+7VENNESSA L VUIC                                                                
+609540001640000001500  5579850001CHEC                                           
+7VENNESSA L VUIC                                                                
+609540001650000003323  4177302042CHEC                                           
+7JEFFREY A MAHON                                                                
+609540001660000002159  1284113909CHEC                                           
+7EMILY J WARREND                                                                
+609540001670000005676  0979400001CHEC                                           
+7PERRY   EPSTEIN                                                                
+609540001680000013799  2504577369CHEC                                           
+7RONALD J LITTLE                                                                
+609540001690000015118  6373075518CHEC                                           
+7CHRISTY L DEFLO                                                                
+609540001700000002826  3648650003CHEC                                           
+7MYRTLE L FREEMA                                                                
+609540001710000001826  7119613908CHEC                                           
+7SHARON A EBERT                                                                 
+609540001720000005652  8455962157CHEC                                           
+7JOHN W SATOLA                                                                  
+609540001730000003752  4839320000CHEC                                           
+7ILYA V VETROV                                                                  
+609540001740000004414  3814837976CHEC                                           
+7BRIAN R STEBBIN                                                                
+609540001750000009670  4826187773CHEC                                           
+7BRIAN R STEBBIN                                                                
+609540001760000005000  9049588443CHEC                                           
+7MACELYN   MARZE                                                                
+609540001770000003279  2221838173CHEC                                           
+7CHRISTINA P WOO                                                                
+609540001780000002429  3608781042CHEC                                           
+7ANTHONY G PHILL                                                                
+609540001790000005383  8343740000CHEC                                           
+7GARY W DAIGNAUL                                                                
+609540001800000005493  8466770001CHEC                                           
+7SETH   GREENFIE                                                                
+609540001810000001870  7373335475CHEC                                           
+7FERIAN SCOTT                                                                   
+609540001820000003419  8911730000CHEC                                           
+7JOHN W ASMONDY                                                                 
+609540001830000002654371463590071CHEC                                           
+7VIRGINIA E SHOU                                                                
+609540001840000001139  8794417705CHEC                                           
+7VIRGINIA E SHOU                                                                
+609540001850000005748  3197070004CHEC                                           
+7LINDA A COUNCIL                                                                
+609540001860000002159  0243337836CHEC                                           
+7DAVID S BOWEN                                                                  
+609540001870000010833223614480084CHEC                                           
+7ASHRAF   KHATIB                                                                
+609540001880000002429  4151123043CHEC                                           
+7ELLEN F SPIVAK                                                                 
+609540001890000003204  8390830000CHEC                                           
+7JILL REBECCA JA                                                                
+609540001900000001379  1406935544CHEC                                           
+7CHRISTINE   FRA                                                                
+609540001910000006252  4823600001CHEC                                           
+7ANDREW   LUXENB                                                                
+609540001920000005748  9743190001CHEC                                           
+7KATHLEEN S SAND                                                                
+609540001930000001414  9996640000CHEC                                           
+7GREGORY   THOMA                                                                
+609540001940000010000  6005996557CHEC                                           
+7JOSEPH M KLAG                                                                  
+609540001950000006980  1320945781CHEC                                           
+7LIGHTING AND CO                                                                
+609540001960000001890  0879320000CHEC                                           
+7ROBIN   SEIGER                                                                 
+609540001970000030000  9145776579CHEC                                           
+7DANIEL J FLANNE                                                                
+609540001980000008867  9664650001CHEC                                           
+7ANGELINA M HAMI                                                                
+609540001990000006252  1410399259CHEC                                           
+7TERASA H CANUPP                                                                
+609540002000000007428  9888220000CHEC                                           
+7ANITA J BARNOWS                                                                
+609540002010000007556  2819820000CHEC                                           
+7SHLOMO A KOYFMA                                                                
+609540002020000006252  7303550000CHEC                                           
+7MARVIN D FREEMA                                                                
+609540002030000007559  8360453784CHEC                                           
+7LEON P WATESKA                                                                 
+609540002040000006252  8368060000CHEC                                           
+7ROBERT TRAVIS G                                                                
+609540002050000001768  7430730000CHEC                                           
+7DONALD R BOWER                                                                 
+609540002060000009670  9386060001CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002070000018823  7639750004CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002080000013593  8406160001CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002090000002779  1262851107CHEC                                           
+7ERNESTINE   MIL                                                                
+609540002100000010978  4272163211CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002110000020130  1289124940CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002120000008363  8763259325CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002130000001825  6536592935CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002140000007559  7954950000CHEC                                           
+7JEANNETTE F DRA                                                                
+609540002150000003133  2036265200CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002160000009670  0312850003CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002170000012285  5091793308CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002180000007055  6120847166CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002190000014900  4662691199CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002200000008363  0360716794CHEC                                           
+7BLANCHE MANAGEM                                                                
+609540002210000006252  8920816606CHEC                                           
+7DARLENE M TELZE                                                                
+609540002220000007559  7866036966CHEC                                           
+7PETER S TITAS                                                                  
+609540002230000002429  4801150000CHEC                                           
+7ROBERT W HALAS                                                                 
+609540002240000003233  5633740000CHEC                                           
+7BELLONE DINO                                                                   
+609540002250000007055  5312750006CHEC                                           
+7LEONORA   KOSTY                                                                
+609540002260000007055  4152650001CHEC                                           
+7ROBERT D MORAN                                                                 
+609540002270000005737  9651488187CHEC                                           
+7SCOTT D GIBBONS                                                                
+609540002280000005475  3043602974CHEC                                           
+7CASE CHRISTINE                                                                 
+609540002290000012789  9001697606CHEC                                           
+7SCOTT D GIBBONS                                                                
+609540002300000008363  1300850005CHEC                                           
+7ROBIN C COTTING                                                                
+609540002310000004948  7791067581CHEC                                           
+7BUSHRA   RAHIM                                                                 
+609540002320000004440  7164900001CHEC                                           
+7ROBERT W LAYTON                                                                
+609540002330000004440  6840660001CHEC                                           
+7JERROLD M SCOTT                                                                
+609540002340000010174  7913613553CHEC                                           
+7FLORA MASTRANGE                                                                
+609540002350000003133  3337094212CHEC                                           
+7TIMOTHY   COLES                                                                
+609540002360000005748  9124780000CHEC                                           
+7DAVID   JESURUN                                                                
+609540002370000004440  7822550003CHEC                                           
+7JACQUELINE A MA                                                                
+609540002380000011692  4982044763CHEC                                           
+7THERESA L LEGGE                                                                
+609540002390000001306  9932497441CHEC                                           
+7DOMINIC A GONNE                                                                
+609540002400000007234233030970023CHEC                                           
+7KARL A MILLER                                                                  
+609540002410000001379622975290001CHEC                                           
+7KARL A MILLER                                                                  
+609540002420000003323  9611745417CHEC                                           
+7MARGARET K STAS                                                                
+609540002430000004373  5298210000CHEC                                           
+7WILLIAMS ELIZAB                                                                
+609540002440000003000  5237292982CHEC                                           
+7KIRKWOOD KASSIE                                                                
+609540002450000006000  3082006782CHEC                                           
+7LOVELL JOHN CUS                                                                
+609540002460000006252  7471350476CHEC                                           
+7CHRISTOPHER E Z                                                                
+609540002470000004414  4986930000CHEC                                           
+7PIASCIK MATTHEW                                                                
+609540002480000002500  2446711584CHEC                                           
+7WHARTON REBECCA                                                                
+609540002490000003730  7014045759CHEC                                           
+7POWELL JOHN                                                                    
+609540002500000007055  8027351841CHEC                                           
+7MARVIN B WATSON                                                                
+609540002510000005963321398290091CHEC                                           
+7ELMIRA P SAMS                                                                  
+609540002520000002429  9851040000CHEC                                           
+7TAYLOR CORAL                                                                   
+609540002530000015000  2862455243CHEC                                           
+7PETKOSH GORDON                                                                 
+609540002540000003738  1824618345CHEC                                           
+7LINDA O GOODWIN                                                                
+609540002550000010500  0745470000CHEC                                           
+7PACE LIONEL                                                                    
+609540002560000007559  6531996953CHEC                                           
+7SHARMON   SOLLI                                                                
+609540002570000004948371466020002CHEC                                           
+7INNA   VILINSKY                                                                
+609540002580000001905  3996175658CHEC                                           
+7HAAS COLLEEN                                                                   
+609540002590000003000  5321515330CHEC                                           
+7CHIRINOS HECTOR                                                                
+609540002600000003576  3744496170CHEC                                           
+7VICTORIA A RESN                                                                
+609540002610000004245  3276920000CHEC                                           
+7RONALD G HALL                                                                  
+609540002620000004948  6334459205CHEC                                           
+7MANTEL DEREK                                                                   
+609540002630000001570  6258450001CHEC                                           
+7DOINA   DIACONU                                                                
+609540002640000002196  9311260002CHEC                                           
+7CAROLINE C FARR                                                                
+609540002650000009670  1090814864CHEC                                           
+7EVELYN J SHELTO                                                                
+609540002660000003419  1476790700CHEC                                           
+7PHILLIP A CIANO                                                                
+609540002670000010978  0391380000CHEC                                           
+7JULIE A ENGEL                                                                  
+609540002680000001768  2604078405CHEC                                           
+72213 ELBUR AVEN                                                                
+609540002690000003233  2746440000CHEC                                           
+7MICHELLE   BABS                                                                
+609540002700000014900  6391915936CHEC                                           
+7OROZCO BREDDIN                                                                 
+609540002710000006484  1663939600CHEC                                           
+7BRALEY CHAD                                                                    
+609540002720000000635  1820686087CHEC                                           
+7LLOYD L FRENCH                                                                 
+609540002730000014097  7492851521CHEC                                           
+7MARY BROOKE SLA                                                                
+609540002740000028193  7424990003CHEC                                           
+7JOHN A LEIBERT                                                                 
+609540002750000003133  2139890002CHEC                                           
+7IRENE D ZAND                                                                   
+609540002760000014900  6141693496CHEC                                           
+7ANTHONY J TROVA                                                                
+609540002770000010174  1166928689CHEC                                           
+7ADRIANN   DUMAR                                                                
+609540002780000000500  9091658326CHEC                                           
+7JAMES R BAXTER                                                                 
+609540002790000003133  1671060001CHEC                                           
+7CAROLE   KOVACH                                                                
+609540002800000004944  5094750001CHEC                                           
+7GOLDSTEIN DALE                                                                 
+609540002810000004944  6986394641CHEC                                           
+7ANN M BUCHHEIT                                                                 
+609540002820000005748  7536770000CHEC                                           
+7AYANA K PARKER                                                                 
+609540002830000006252  7734270003CHEC                                           
+7GLORIA J LETOST                                                                
+609540002840000019327  4768790001CHEC                                           
+7KIMBERLY A HOVA                                                                
+609540002850000004414  2531240000CHEC                                           
+7COLLEEN G TREML                                                                
+609540002860000003088863407660043CHEC                                           
+7LAURA   NORTZ                                                                  
+609540002870000011482  6430353995CHEC                                           
+7PATTI M LONER                                                                  
+609540002880000005967  1799397153CHEC                                           
+7JUDITH A JACKMA                                                                
+609540002890000002000  0371917581CHEC                                           
+7WILLIAM H HAMM                                                                 
+609540002900000003000  0885440000CHEC                                           
+7CLIFFORD H SINK                                                                
+609540002910000001049  2224954363CHEC                                           
+7RONALD A KOVACH                                                                
+609540002920000002654  0356820000CHEC                                           
+7RONALD A KOVACH                                                                
+609540002930000010978  0368680002CHEC                                           
+7DANIEL J COFFEY                                                                
+609540002940000002696  3986740000CHEC                                           
+7ROBERT M WALKER                                                                
+609540002950000007276  9133700000CHEC                                           
+7ROSE M OLIVER                                                                  
+609540002960000008108  0347119421CHEC                                           
+7ROSE M OLIVER                                                                  
+609540002970000002696863412870004CHEC                                           
+7DUNCAN ALISA                                                                   
+609540002980000010016  8347260002CHEC                                           
+7JOHN R BURKS                                                                   
+609540002990000004892  1019160003CHEC                                           
+7EVA MAE GIST                                                                   
+609540003000000003650  3293750002CHEC                                           
+7MARY   NERO                                                                    
+609540003010000000174  8350234886CHEC                                           
+7DAVID E WALKOWI                                                                
+609540003020000006400  8807700000CHEC                                           
+7BETTY J HODGE                                                                  
+609540003030000004400  4026100003CHEC                                           
+7BETTY J HODGE                                                                  
+609540003040000006252  4102570001CHEC                                           
+7STACEY   JOLLY                                                                 
+609540003050000005000  8185950000CHEC                                           
+7PAUL A BAYER                                                                   
+609540003060000010000  4632260002CHEC                                           
+7CHARLES   SHEBO                                                                
+609540003070000007500  7616220000CHEC                                           
+7DARYL   LEAKE                                                                  
+609540003080000000990  8344445089CHEC                                           
+7WILLIAM E NIEME                                                                
+609540003090000012789  1062110211CHEC                                           
+7TRACY L FALLON                                                                 
+609540003100000004000  7753170001CHEC                                           
+7KRISTA   MCGUIR                                                                
+609540003110000005000  6363800000CHEC                                           
+7IRIS D CESPEDES                                                                
+609540003120000000467  7302618760CHEC                                           
+7ROSA A JOHNSON                                                                 
+609540003130000005000  0634975100CHEC                                           
+7MARCO A CICCONE                                                                
+609540003140000005000  4260262472CHEC                                           
+7MARCO A CICCONE                                                                
+609540003150000004184  4567287103CHEC                                           
+7MARIANNE S JONE                                                                
+609540003160000007573  4009450000CHEC                                           
+7MARK J HODGSON                                                                 
+609540003170000007057012802400012CHEC                                           
+7MARK J HODGSON                                                                 
+609540003180000003000  3014751238CHEC                                           
+7GARY W MEADOWS                                                                 
+609540003190000006000  2730302596CHEC                                           
+7GARY W MEADOWS                                                                 
+609540003200000008867  8441748648CHEC                                           
+7KOBIE TIMOTHY                                                                  
+609540003210000007559  2778378754CHEC                                           
+7CAVE STEVEN                                                                    
+609540003220000001440  1466934367CHEC                                           
+7ANTHONY   VANGI                                                                
+609540003230000005676  2775350003CHEC                                           
+7INZA   BROSKI                                                                  
+609540003240000008198  8547000000CHEC                                           
+7HATTIE R CASTLE                                                                
+609540003250000005493  4909650001CHEC                                           
+7SUSAN M MURPHY                                                                 
+609540003260000010000  3425500000CHEC                                           
+7MICHELLE   ABER                                                                
+609540003270000002000320993400053CHEC                                           
+7DORIS SPIEGLER                                                                 
+609540003280000001890  2838440000CHEC                                           
+7NATALIE   JOHNS                                                                
+609540003290000008363  8121406998CHEC                                           
+7KEVIN M MCARTHU                                                                
+609540003300000007055  7953300001CHEC                                           
+7JACQUELINE M MI                                                                
+609540003310000010174  1039060003CHEC                                           
+7ELIZABETH BD CI                                                                
+609540003320000001139  2438145335CHEC                                           
+7DAVID O REYES                                                                  
+609540003330000007559  7044370002CHEC                                           
+7CATHERINE V CAT                                                                
+609540003340000018019  6884090000CHEC                                           
+7ANNE E KISHA KY                                                                
+609540003350000006252  1056550001CHEC                                           
+7AARON   PROWELL                                                                
+609540003360000005038  8691494374CHEC                                           
+7EASTWOOD FURNIT                                                                
+609540003370000009500  3746350000CHEC                                           
+7BRIAN   ALTENBA                                                                
+609540003380000001890730921780004CHEC                                           
+7CINDY L SPITZ                                                                  
+609540003390000004440  7616970001CHEC                                           
+7CINDY L SPITZ                                                                  
+609540003400000015000  6232796632CHEC                                           
+7JAMES T DIXON                                                                  
+609540003410000005748  3805175817CHEC                                           
+7JAMES T DIXON                                                                  
+609540003420000009670  6459950002CHEC                                           
+7ERICA R CASO                                                                   
+609540003430000010123  4569394749CHEC                                           
+7DANIA M MOTA CO                                                                
+609540003440000005748  2132799653CHEC                                           
+7DANA A PIERCE                                                                  
+609540003450000009740  6954816819CHEC                                           
+7ALBA TRUCKING L                                                                
+609540003460000001754  3893060005CHEC                                           
+7MARIA   QUINONE                                                                
+609540003470000007559  8297950001CHEC                                           
+7BRUCE J KOPROWS                                                                
+609540003480000004440  4088950000CHEC                                           
+7THERESE A TULET                                                                
+609540003490000002518  8317318945CHEC                                           
+7IBRAHIM   TULUN                                                                
+609540003500000004184  1445525209CHEC                                           
+7BAUMANN BRIAN                                                                  
+609540003510000004554  3837740000CHEC                                           
+7DARA LYNN PETRO                                                                
+609540003520000002000  8178550001CHEC                                           
+7SMITLEY ZONA                                                                   
+609540003530000002000  4759147422CHEC                                           
+7SMITLEY ZONA                                                                   
+609540003540000003894  9780050249CHEC                                           
+7CODY L BOUCHER                                                                 
+609540003550000014900  6188450003CHEC                                           
+7JANELLE M SIMAN                                                                
+609540003560000001100  3104480422CHEC                                           
+7VENERA F IZANT                                                                 
+609540003570000005593  5804955722CHEC                                           
+7SUZANNE C LYONS                                                                
+609540003580000005748  0934550003CHEC                                           
+7SARTO ANNA                                                                     
+609540003590000005300  2228550000CHEC                                           
+7FRED T CHANEY                                                                  
+609540003600000001139  4703769994CHEC                                           
+7BARBARA J SCHIE                                                                
+609540003610000007559  9556335612CHEC                                           
+7GILBERT ROBIN                                                                  
+609540003620000012285  0343789813CHEC                                           
+7CHARLES R CROWL                                                                
+609540003630000009670  6492054537CHEC                                           
+7WARREN M WILSON                                                                
+609540003640000004184  4019734222CHEC                                           
+7JEFF   CHAPA                                                                   
+609540003650000005000  6036680000CHEC                                           
+7JUDGE NANCY                                                                    
+609540003660000002429  9165621165CHEC                                           
+7POPA ESTERA                                                                    
+609540003670000005737  4367394361CHEC                                           
+7ALLYSON   WHITT                                                                
+609540003680000013510223658040081CHEC                                           
+7THOMAS M ACKLIN                                                                
+609540003690000016208  2322380001CHEC                                           
+7LISA A MACK                                                                    
+609540003700000005691843356940002CHEC                                           
+7ANNA E GASPAR D                                                                
+609540003710000007459234069270061CHEC                                           
+7RONALD J KRUSE                                                                 
+609540003720000003419  8447154329CHEC                                           
+7MARY LYNN WILLS                                                                
+609540003730000007055  5956332182CHEC                                           
+7MARY LYNN WILLS                                                                
+609540003740000006252  5958304140CHEC                                           
+7SILEO PAUL                                                                     
+609540003750000005338354915000011CHEC                                           
+7BRIAN K OTT                                                                    
+609540003760000002654  5021810000CHEC                                           
+7JOHN J DIETRICH                                                                
+609540003770000008867  1942160001CHEC                                           
+7ROBERT C SOLGAN                                                                
+609540003780000008998  5464220000CHEC                                           
+7KENNETH D LANG                                                                 
+609540003790000009670  3650013533CHEC                                           
+7PETER W RICHER                                                                 
+609540003800000006794  1559220000CHEC                                           
+7ROBERT C SOLGAN                                                                
+609540003810000008867  0724489581CHEC                                           
+7GREGORY J POPA                                                                 
+609540003820000003771  1729369509CHEC                                           
+7KEVIN J NORMAN                                                                 
+609540003830000001139  7562713066CHEC                                           
+7AMY K ARNO                                                                     
+609540003840000005713  0264327431CHEC                                           
+7PEGGY   ROBINET                                                                
+609540003850000010174  9104470001CHEC                                           
+7MARY MARGARET S                                                                
+609540003860000008011  5885012030CHEC                                           
+7.   COMMUNITY C                                                                
+609540003870000012789  4977250003CHEC                                           
+7LYNN L FIKARIS                                                                 
+609540003880000004440  9688250000CHEC                                           
+7MOROZOV JURIJ                                                                  
+609540003890000007055  5237244753CHEC                                           
+7MATTHEW T HADGI                                                                
+609540003900000005748  1334332097CHEC                                           
+7BARTLETT GAY                                                                   
+609540003910000003400  6915696957CHEC                                           
+7BARTLETT GAY                                                                   
+609540003920000049391  1892750001CHEC                                           
+7CYNTHIA S BURKE                                                                
+609540003930000003752  6271330000CHEC                                           
+7STEVEN A JOHNSO                                                                
+609540003940000000990  4855040000CHEC                                           
+7JASON L BLANCHA                                                                
+609540003950000003133  3740094525CHEC                                           
+7ZACHARY V KRUSE                                                                
+609540003960000007055  8254400005CHEC                                           
+7GREGORY A SMITH                                                                
+609540003970000007559  6655560000CHEC                                           
+7MARCO A SILVA                                                                  
+609540003980000004948  4807715500CHEC                                           
+7ROBERT J FOX                                                                   
+609540003990000010138  1897805533CHEC                                           
+7ROBERT J FOX                                                                   
+609540004000000007559  5679760002CHEC                                           
+7JAMES J SEFCIK                                                                 
+609540004010000004851  3919120000CHEC                                           
+7ROBERT F CLOUGH                                                                
+609540004020000003802  3322671552CHEC                                           
+7DANIEL   SVOBOD                                                                
+609540004030000004414  8744020000CHEC                                           
+7ROBERT W SAMERI                                                                
+609540004040000003752  5017206666CHEC                                           
+7ROBERT W SAMERI                                                                
+609540004050000001093  2649468876CHEC                                           
+7NAYYER HOMA VAR                                                                
+609540004060000036038  6106376728CHEC                                           
+7JONATHAN   BELD                                                                
+609540004070000007559  4528170001CHEC                                           
+7HOWARD E SCHREI                                                                
+609540004080000008867  4481760000CHEC                                           
+7LES   ROSENBERG                                                                
+609540004090000003091  1921630000CHEC                                           
+7ANNETTE M MARRE                                                                
+609540004100000002654  1611157715CHEC                                           
+7JOHN J KERN                                                                    
+609540004110000001440  8611910000CHEC                                           
+7PATRICIA A PATR                                                                
+609540004120000006252  1052144256CHEC                                           
+7JOHN J KERN                                                                    
+609540004130000008384  5843020000CHEC                                           
+7JOHN A RUSNACZY                                                                
+609540004140000001768  7283830000CHEC                                           
+7JOHN R ALEXANDE                                                                
+609540004150000011482  4022060001CHEC                                           
+7KASEY A JOHNSON                                                                
+609540004160000002654  3131904792CHEC                                           
+7TARULATA K PATE                                                                
+609540004170000003211  0053206492CHEC                                           
+7ROBERT A MONTGO                                                                
+609540004180000010500  0058551991CHEC                                           
+7CHIUNDA ALLAN                                                                  
+609540004190000001652353448280053CHEC                                           
+7KWIATT ELIN                                                                    
+609540004200000004993  2732600000CHEC                                           
+7JONES CLIFFORD                                                                 
+609540004210000007055  4516090002CHEC                                           
+7JONES CLIFFORD                                                                 
+609540004220000003091  6890420000CHEC                                           
+7CICERO JOHN                                                                    
+609540004230000010000  7425750002CHEC                                           
+7DIANE E SHORT                                                                  
+609540004240000002329  3891480000CHEC                                           
+7CHARLES E MCBRI                                                                
+609540004250000001139  9649326945CHEC                                           
+7GILLES C J PINA                                                                
+609540004260000002000  6846668945CHEC                                           
+7LYUBOV   PRIKHO                                                                
+609540004270000003061  1701008303CHEC                                           
+7ROBERT W WILLIA                                                                
+609540004280000004892  7485262788CHEC                                           
+7ROBERT W WILLIA                                                                
+609540004290000001825  9494573832CHEC                                           
+7CHARLES A GOHAG                                                                
+609540004300000005000  9783630000CHEC                                           
+7KIMMICH KAREN                                                                  
+609540004310000008100244823810011CHEC                                           
+7LAVELLE SANDRA                                                                 
+609540004320000000700  7114261497CHEC                                           
+7LAVELLE SANDRA                                                                 
+609540004330000005713  5568715132CHEC                                           
+7WOMACK JAMES                                                                   
+609540004340000016712  5829750001CHEC                                           
+7FELICE PAUL                                                                    
+609540004350000012285  5891470001CHEC                                           
+7ROBERT J ANTONE                                                                
+609540004360000002159  3583834514CHEC                                           
+7JEFFREY J BRENN                                                                
+609540004370000008867  7398250003CHEC                                           
+7VETO THOMAS                                                                    
+609540004380000015000  7367550001CHEC                                           
+7FRANCES M MARK                                                                 
+609540004390000008363  9315950000CHEC                                           
+7THOMAS M HERING                                                                
+609540004400000004993  0001700000CHEC                                           
+7MATTIE D TOWNS-                                                                
+609540004410000005748  7203080000CHEC                                           
+7NANCY S STELLHO                                                                
+609540004420000010174  5045290000CHEC                                           
+7WATKINS STACEY                                                                 
+609540004430000002000  9472039862CHEC                                           
+7SYKES JEREME                                                                   
+609540004440000007559  2831561815CHEC                                           
+7ZAPP RAYMOND                                                                   
+609540004450000007055  0430450004CHEC                                           
+7QUINT KANDI                                                                    
+609540004460000007055  5140160006CHEC                                           
+7HILDRETH JR ERR                                                                
+609540004470000006231012660460002CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540004480000003304012659950094CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540004490000003091583211910073CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540004500000005612012673470013CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540004510000006231012743130042CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540004520000004993012573480012CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540004530000009415  8721790001CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540004540000008108  6485350001CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540004550000007500  7890970004CHEC                                           
+7CRUZ KEMUEL                                                                    
+609540004560000007055  1715950000CHEC                                           
+7HOLM MAUDIE                                                                    
+609540004570000005737  5719926934CHEC                                           
+7ARABIAN LAURA                                                                  
+609540004580000001360  1301635184CHEC                                           
+7FLOWERS JANET                                                                  
+609540004590000005309  2226830000CHEC                                           
+7PALAZZO ANTONET                                                                
+609540004600000011495  5382770000CHEC                                           
+7PALAZZO ANTONET                                                                
+609540004610000009850454445140095CHEC                                           
+7RIVERS KIM                                                                     
+609540004620000017000  1084500182CHEC                                           
+7YONDO HEATHER J                                                                
+609540004630000001826  6901512628CHEC                                           
+7ISRAEL SHERI                                                                   
+609540004640000003133  9120060003CHEC                                           
+7KILKENNEY MS KA                                                                
+609540004650000002159  9047264232CHEC                                           
+7BRILL DAVID                                                                    
+609540004660000009550  3015590869CHEC                                           
+7EWING REGINA                                                                   
+609540004670000000762  9898950002CHEC                                           
+7SANEK TRACY                                                                    
+609540004680000005748  0650450002CHEC                                           
+7PARKER BOYCE                                                                   
+609540004690000001000  3694280190CHEC                                           
+7LEONARD WENDY                                                                  
+609540004700000001483  0040220000CHEC                                           
+7HURWITZ SUSAN                                                                  
+609540004710000007000  6931060003CHEC                                           
+7DEVERA JOHN                                                                    
+609540004720000002400730953050063CHEC                                           
+7DRAY JAMES                                                                     
+609540004730000005800  5692390003CHEC                                           
+7DRAY JAMES                                                                     
+609540004740000005000  4435050000CHEC                                           
+7DEVERA JOHN                                                                    
+609540004750000004944  1564350000CHEC                                           
+7SELEE ROBERT                                                                   
+609540004760000001500  9968250001CHEC                                           
+7BERHENT HEATHER                                                                
+609540004770000001440  1864240000CHEC                                           
+7SZIJARTO JOSEPH                                                                
+609540004780000001768  2004020000CHEC                                           
+7NIKOLAOU KATHLE                                                                
+609540004790000001500  1390460003CHEC                                           
+7BISCUSO SARAH                                                                  
+609540004800000002000  6507570001CHEC                                           
+7HALL KATARA                                                                    
+609540004810000007559  7541900002CHEC                                           
+7BALABAN ANGELA                                                                 
+609540004820000008867  9446350002CHEC                                           
+7MLINAC ELIZABET                                                                
+609540004830000010174  8983382952CHEC                                           
+7ESSER BRIAN                                                                    
+609540004840000003200  5821153957CHEC                                           
+7MATHEWS STACY                                                                  
+609540004850000002652  7108030000CHEC                                           
+7SLOSKY ROBERTA                                                                 
+609540004860000002429  1052202521CHEC                                           
+7ZELENKOV GEORGE                                                                
+609540004870000007055  0203850000CHEC                                           
+7HENDRYX SCOTT                                                                  
+609540004880000006000  1891550003CHEC                                           
+7GLENNY MARGARET                                                                
+609540004890000006252  2858633553CHEC                                           
+7ZAREFOSS STEVEN                                                                
+609540004900000004944  2107270001CHEC                                           
+7MAJESKI KAREN                                                                  
+609540004910000010978  6480680002CHEC                                           
+7BAUER WAYNE                                                                    
+609540004920000005748  2413548523CHEC                                           
+7ZAKO DEBORAH                                                                   
+609540004930000001139  2977510962CHEC                                           
+7CUMMINGS JOHN B                                                                
+609540004940000005748  1560260002CHEC                                           
+7RHINES RICHARD                                                                 
+609540004950000003419  2320830000CHEC                                           
+7ROESCH KATHLEEN                                                                
+609540004960000000990  9783406651CHEC                                           
+7SPIRKO DANIEL                                                                  
+609540004970000001139  3388305286CHEC                                           
+7PURCELL LISA                                                                   
+609540004980000006063  5996592001CHEC                                           
+7COOK WAYNE                                                                     
+609540004990000004440  7106350000CHEC                                           
+7BOYDEN SALLY                                                                   
+609540005000000005748  4664160000CHEC                                           
+7RICHARDSON PAUL                                                                
+609540005010000000990  1249930000CHEC                                           
+7KNAPICK JOSEPH                                                                 
+609540005020000011482  7800260001CHEC                                           
+7WARGO TAMMI                                                                    
+609540005030000006211  8116527835CHEC                                           
+7MAREK JENNIFER                                                                 
+609540005040000007055  4277677472CHEC                                           
+7PRINCE MARK                                                                    
+609540005050000002429  0006362381CHEC                                           
+7LINDSEY RASHEED                                                                
+609540005060000005196  3278640000CHEC                                           
+7RITER PAMELA                                                                   
+609540005070000005200  6060260003CHEC                                           
+7HAYES HAROLD                                                                   
+609540005080000004948  7195823669CHEC                                           
+7HUNT NATHAN                                                                    
+609540005090000011193  9339120000CHEC                                           
+7PYATT TAMMY                                                                    
+609540005100000003500  5468550003CHEC                                           
+7GONZALEZ MADELI                                                                
+609540005110000002696  5868807803CHEC                                           
+7BRAINARD DAWN                                                                  
+609540005120000013200273343550082CHEC                                           
+7BLOOM JEFFREY                                                                  
+609540005130000002159353515030043CHEC                                           
+7FERRY RICHARD                                                                  
+609540005140000001768  7583830000CHEC                                           
+7COLEMAN JENNIFE                                                                
+609540005150000004948  8765040000CHEC                                           
+7KULKIN LISA                                                                    
+609540005160000019341  9083810271CHEC                                           
+7NICKELS MARY                                                                   
+609540005170000007055  8154450000CHEC                                           
+7CAPUANO SANDRA                                                                 
+609540005180000001825  6244960000CHEC                                           
+7ORIELLA LINO                                                                   
+609540005190000001825  4922660001CHEC                                           
+7ORIELLA LINO                                                                   
+609540005200000013926  0520616439CHEC                                           
+7GREYWITT DENISE                                                                
+609540005210000010000  6630170000CHEC                                           
+7SHOBEY BRETT                                                                   
+609540005220000011600  8001850002CHEC                                           
+7POLLACK SHARI                                                                  
+609540005230000004107  1323950001CHEC                                           
+7TRUST THE                                                                      
+609540005240000004500  8490237538CHEC                                           
+7WILLIAMS-NAPIER                                                                
+609540005250000008500  4109250001CHEC                                           
+7WILLIAMS-NAPIER                                                                
+609540005260000004318  5225630000CHEC                                           
+7VANDETTI CAROL                                                                 
+609540005270000002654  5717140000CHEC                                           
+7ERNST MICHELE                                                                  
+609540005280000001379  0770330000CHEC                                           
+7TAYLOR ANNE                                                                    
+609540005290000007010  3173450002CHEC                                           
+7LAMAR YVONNE                                                                   
+609540005300000010100  6046693650CHEC                                           
+7LUTHER TRACIE                                                                  
+609540005310000004944  0336383563CHEC                                           
+7KHOURY WISSAM                                                                  
+609540005320000002700863407750052CHEC                                           
+7CLARK JOANN                                                                    
+609540005330000010383  9981155407CHEC                                           
+7GHOBRIAL MIANA                                                                 
+609540005340000005500  9224440000CHEC                                           
+7DIEHL PAUL                                                                     
+609540005350000014097  0338160002CHEC                                           
+7NABULSI ABDELKA                                                                
+609540005360000000990354502030014CHEC                                           
+7SEIBOLT EDWARD                                                                 
+609540005370000007055  0357450001CHEC                                           
+7PAUL BARBARA                                                                   
+609540005380000004440  8765790004CHEC                                           
+7BAKER CHARLISE                                                                 
+609540005390000000635  4971003473CHEC                                           
+7REGAN JOSEPH                                                                   
+609540005400000004184  1084811705CHEC                                           
+7NATALIE WAYNE                                                                  
+609540005410000005800  2883412977CHEC                                           
+7RICHARDS DEBORA                                                                
+609540005420000000635  1032921024CHEC                                           
+7SOUKUP TERRI                                                                   
+609540005430000011482  1053868025CHEC                                           
+7JONES PRIOR ANI                                                                
+609540005440000006219  8031740000CHEC                                           
+7CAREY MAUREEN                                                                  
+609540005450000005000  1313978307CHEC                                           
+7BROWN GLORIA                                                                   
+609540005460000007055  8557456645CHEC                                           
+7RAINES VALERIE                                                                 
+609540005470000010978  0536100004CHEC                                           
+7BOYD ANTHONY                                                                   
+609540005480000003753  2667600000CHEC                                           
+7LYNCH RICKY                                                                    
+609540005490000010000803480400092CHEC                                           
+7GORIE MAUREEN                                                                  
+609540005500000012285  4495139698CHEC                                           
+7TRUST SHARON A                                                                 
+609540005510000010000  0351840000CHEC                                           
+7BAILEY ELVIRA                                                                  
+609540005520000015000  9161790000CHEC                                           
+7BAILEY ELVIRA                                                                  
+609540005530000001622  9284740000CHEC                                           
+7ZOLLOS DEBORAH                                                                 
+609540005540000016539  7757440000CHEC                                           
+7BUZDON TEREZA                                                                  
+609540005550000002500  0397323455CHEC                                           
+7VAZQUEZ-LONG MI                                                                
+609540005560000007542  2908530000CHEC                                           
+7NITSCHKE JENNIF                                                                
+609540005570000009888  4787950002CHEC                                           
+7JOHN A LEIBERT                                                                 
+609540005580000006252  1883100004CHEC                                           
+7WAEL A JABER                                                                   
+609540005590000028194  6362141248CHEC                                           
+7NIKOLAUS C NETZ                                                                
+609540005600000010978  0570260000CHEC                                           
+7LADONNA WINSTON                                                                
+609540005610000006800  8146270000CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540005620000009670  1265070003CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540005630000007055  1211780000CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540005640000016426  7884000002CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540005650000002878  4103650002CHEC                                           
+7BUCHANAN NANCY                                                                 
+609540005660000007245  8335958756CHEC                                           
+7JOHNSON DON                                                                    
+609540005670000019340  9134290003CHEC                                           
+7NITSCHKE JENNIF                                                                
+8954L0000000010202605050567000003600994000567                                   
+9999999999999920260505000567000003600994                                        

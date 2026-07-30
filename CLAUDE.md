@@ -11,6 +11,13 @@ Platform > product > content folder:
 
 Each product folder always has the same five subfolders: `specs/`, `meeting-notes/`, `jira/`, `confluence/`, `diagrams/`. Keep new products consistent with this shape.
 
+Two additional subfolders are allowed, but only when a product actually has this kind of content — don't add them pre-emptively:
+
+- `tools/` — runnable prototype apps or scripts (e.g. a metrics-dashboard prototype, a sample API-integration script).
+- `sample-data/` — raw reference/example data files too large or non-doc to live in `specs/`.
+
+Content in `sample-data/` may include real customer data — check for PII before referencing or excerpting it elsewhere (see "What not to do" below).
+
 ## Knowledge graph
 
 `knowledge-graph/` holds one hub note per platform and per product, linked with Obsidian `[[wikilinks]]`, not relative markdown links. When adding a new product or platform:
