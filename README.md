@@ -3,7 +3,7 @@
 PM workspace for **KUBRA – Data Analytics**. Tracks work across two platforms:
 
 - **ConfigHQ** → [Datafeed](ConfigHQ/Datafeed), [SFTP Mailbox Manager](ConfigHQ/SFTP-Mailbox-Manager), [File Transformation Service](ConfigHQ/File-Transformation-Service)
-- **BizHQPlus** → [Reports](BizHQPlus/Reports)
+- **BizHQPlus** → [Reports](BizHQPlus/Reports), [Notifi Reporting](BizHQPlus/Notifi-Reporting)
 - **[KHQ Billing](KHQ-Billing)** (standalone, no sub-products yet)
 
 ## Structure

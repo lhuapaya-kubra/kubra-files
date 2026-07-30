@@ -3,8 +3,8 @@ type: product
 name: File Transformation Service
 platform: ConfigHQ
 tags: [product]
-jira_project_key:
-confluence_space:
+jira_project_key: FTS
+confluence_space: MIC
 status:
 ---
 

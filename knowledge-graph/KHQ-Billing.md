@@ -3,8 +3,8 @@ type: product
 name: KHQ Billing
 platform:
 tags: [product]
-jira_project_key:
-confluence_space:
+jira_project_key: ANALYTICS
+confluence_space: AG
 status:
 ---
 

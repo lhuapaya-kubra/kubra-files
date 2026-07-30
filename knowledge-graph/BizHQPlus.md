@@ -12,6 +12,7 @@ Platform note for BizHQPlus.
 ## Products
 
 - [[Reports]]
+- [[Notifi-Reporting]]
 
 ## Related
 

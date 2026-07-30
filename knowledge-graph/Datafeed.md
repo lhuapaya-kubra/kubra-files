@@ -3,8 +3,8 @@ type: product
 name: Datafeed
 platform: ConfigHQ
 tags: [product]
-jira_project_key:
-confluence_space:
+jira_project_key: DF
+confluence_space: MIC
 status: Active — Swift UI → ConfigHQ V3 migration in progress
 ---
 

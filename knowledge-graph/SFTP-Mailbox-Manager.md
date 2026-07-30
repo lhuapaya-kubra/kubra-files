@@ -3,8 +3,8 @@ type: product
 name: SFTP Mailbox Manager
 platform: ConfigHQ
 tags: [product]
-jira_project_key:
-confluence_space:
+jira_project_key: SMM
+confluence_space: MIC
 status:
 ---
 
