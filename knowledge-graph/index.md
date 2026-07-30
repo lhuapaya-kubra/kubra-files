@@ -18,6 +18,7 @@ Entry point for the KUBRA Data Analytics knowledge graph. Open this repo as an O
 - [[SFTP-Mailbox-Manager]]
 - [[File-Transformation-Service]]
 - [[Reports]]
+- [[KHQ-Billing]]
 
 ## Tools
 
