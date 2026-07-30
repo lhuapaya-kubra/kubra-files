@@ -1,0 +1,26 @@
+---
+type: index
+tags: [index]
+---
+
+# Knowledge Graph Index
+
+Entry point for the KUBRA Data Analytics knowledge graph. Open this repo as an Obsidian vault and use **Graph View** from this note to see all connections.
+
+## Platforms
+
+- [[ConfigHQ]]
+- [[BizHQPlus]]
+
+## Products
+
+- [[Datafeed]]
+- [[SFTP-Mailbox-Manager]]
+- [[File-Transformation-Service]]
+- [[Reports]]
+
+## Tools
+
+- Jira
+- Confluence
+- Claude Code
