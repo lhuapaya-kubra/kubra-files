@@ -79,7 +79,7 @@ So the data team's estimate for Alfred should be scoped to the **2 KHQ files (Re
 
 **Data team - KHQ files:**
 1. Create a v4 draft of the Remittance and Batch Post file for DocWeb ingestion.
-2. Get those files into DocWeb for eLockBox transformation.
+2. Get those files into DocWeb for eLockBox transformation. (Still pending — unknown. Bhavik is working with Vitalii to finalize this.)
 
 **Katalyst:**
 1. Transform the files — KHQ Remittance file, KHQ Batch Post file, Payment Notifier feed, and Remittance Generator feed — into the 3 outbound files (Origination, Remittance, Return).
@@ -143,3 +143,41 @@ Tracked in [ANALYTICS-4295](https://kubra.jira.com/browse/ANALYTICS-4295) (verif
 - [Remittance and Batch Post File v4](https://kubra.jira.com/wiki/spaces/AG/pages/2111504406/Remittance+and+Batch+Post+File+v4+-+draft+-+07+29+2026) — confirmed scope match for PG&E CFM's data-team deliverable
 - [PGECFM - Middleware for Outbound File processing](https://docs.google.com/drawings/d/1gna6BPG1s6TzxmTgZYOtPb--fY8g2V1AAuDybCFk3vA/edit) (Jaro Leken)
 - [PGECFM File Processing spreadsheet](https://docs.google.com/spreadsheets/d/1sklnHaMO6kUu2NSl_99C7nARAUlcjJ6fqWbIqD0YpPM/edit?gid=0#gid=0) (Jaro Leken) — file inventory; source of the conflicting "3 outbound files" framing
+
+## Draft response to Alfred (high-level)
+
+**Status: DRAFT — for Luciano to review/edit before sending. Numbers below are traceable to this doc, but Feature 1's is Bhavik's read, not yet a formally confirmed EM sizing.**
+
+---
+
+Hi Alfred,
+
+Thanks for the context — here's where we landed on both, high-level:
+
+**Custom Reports for PG&E CFM**
+High-level, here are the teams involved in getting these reports out to PG&E CFM:
+
+- **Data team (KHQ files):**
+  1. Create a v4 draft of the Remittance and Batch Post file for DocWeb ingestion. (1 sprint)
+  2. Get those files into DocWeb for eLockBox transformation. *(Still pending/unknown — Bhavik is working with Vitalii to finalize this.)* (maybe 3 sprints? - unsure what the LOE is here)
+- **Katalyst:** transforms the files — KHQ Remittance file, KHQ Batch Post file, Payment Notifier feed, and Remittance Generator feed — into the 3 outbound files (Origination, Remittance, Return).
+- **Unknown team — Payment Notifier & Remittance Generator:** owning team(s) not yet identified; also unknown whether any additional work is needed on these applications themselves, versus just consuming their existing output.
+
+Data Analytics team piece specifically is the KHQ Remittance file + KHQ Batch Post file (v4):
+1. Create the v4 draft — 1 sprint
+2. Get those files into DocWeb for eLockBox transformation — still pending confirmation with Vitalii, rough guess ~3 sprints
+
+- New Best Case: 3 sprint
+- New Worst Case: 5 sprints
+
+**Consumer reports (Suffolk County Water Authority)**
+Two independent workstreams surfaced here, with different owners:
+- **Data Analytics:** add an External ID column to the Consumer Enrollment and Consumer Activity reports, so consumers who share the same email/phone can still be told apart — **1 sprint**.
+- **Consumer platform (Phil Rubio's team):** investigate and fix a bug where a contact-verification event isn't firing, which is why verified contact info shows up blank in the reports — **2 sprints, sequential** (1 to investigate, 1 to implement).
+
+- New Best Case: 2 sprints (if the two workstreams run in parallel)
+- New Worst Case: 3 sprints (if sequential, or either one slips)
+
+Happy to break either of these down further if it'd help with prioritization.
+
+Luciano
