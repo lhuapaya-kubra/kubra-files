@@ -72,20 +72,40 @@ Jaro's other spreadsheet, [PGECFM File Processing](https://docs.google.com/sprea
 
 So the data team's estimate for Alfred should be scoped to the **2 KHQ files (Remittance, Batch Post)** — this is the Remittance/Batch Post File v4 work already in progress. The 3-outbound-file framing from Jaro's spreadsheet describes the full pipeline's client-facing output, most of which (iDoxs feeds, Katalyst/DocWeb/eLockBox transformation) is other teams' scope.
 
+### Bhavik exchange (2026-08-04, 9:26 AM) — correction + open hypothesis
+
+**Bhavik (9:26 AM):** On "Create a v4 draft of the Remittance and Batch Post file for DocWeb ingestion" — asked that requirements be listed somewhere clearly for broad alignment. If it's what he called out in his earlier message (the Reconciliation/Batch Post scope with PaymentSource, PaymentProcessor, SpaceName, etc.), he'd call it a 1-sprint effort that needs to be spread out over 2 sprints — left it to Luciano how to characterize that.
+
+**Requirements are documented:** [Remittance and Batch Post File v4](https://kubra.jira.com/wiki/spaces/AG/pages/2111504406/Remittance+and+Batch+Post+File+v4+-+draft+-+07+29+2026) on Confluence — this should be shared with Bhavik directly to close his alignment ask.
+
+**Correction from Luciano:** The earlier note that "Bhavik is working with Vitalii to finalize this" was **wrong** — Luciano clarified he is **not** working with Vitalii on this. All he knows: the file needs to be sent to DocWeb. The exact location hasn't been confirmed but is expected to be an **S3 location**, which — barring access issues — shouldn't be a problem.
+
+**Gap Luciano flagged:** What DocWeb needs to do to actually consume that file, and where they are on that (or whether tickets need to be cut for it), is **not something Luciano is aware of** — separate unknown from the Katalyst-scheduling question below.
+
+**What Bhavik *is* working with Vitalii on — a separate matter:** how to ensure the 9:30 PM file has all payments up through 8 PM, given that PBO needs to process and push to Kafka, Databricks needs to process, and Looker needs to send the file — and every one of those steps has lag. Related to that: how to design the system to be **self-healing**, so files don't have to be manually re-sent from Looker if something fails or if payments/remittances process late.
+
+**Luciano's own assessment:** he wouldn't categorize either of these two things — the DocWeb-consumption unknown, or the Vitalii self-healing/timing work — as complete blockers for CFM, but he'll let leadership decide.
+
+**Luciano's follow-up hypothesis to Bhavik (open question, not yet confirmed):** If that's the case, does the data team really just need help from **Katalyst** to schedule sending the Remittance and Batch Post files to DocWeb for inbound eLockBox configuration? And once the data team has access to schedule sending those files, is that the end of the data team's duty — meaning this could potentially be **done in 1-2 sprints total** and be finished with sending files to eLockBox?
+
+**This is not yet confirmed by Bhavik.** If true, it would revise the data-team estimate down significantly from the working 3-5 sprint range below.
+
 ### High-level summary (for Alfred)
 
 **Unknown team - Payment Notifier & Remittance Generator:**
 1. Payment Notifier and Remittance Generator — owning team(s) not yet identified, and it's not yet known whether any additional work is needed on these applications themselves (vs. just consuming their existing output).
 
 **Data team - KHQ files:**
-1. Create a v4 draft of the Remittance and Batch Post file for DocWeb ingestion.
-2. Get those files into DocWeb for eLockBox transformation. (Still pending — unknown. Bhavik is working with Vitalii to finalize this.)
+1. Create a v4 draft of the Remittance and Batch Post file for DocWeb ingestion — per Bhavik, ~1 sprint of effort, spread over 2 sprints.
+2. Get those files into DocWeb for eLockBox transformation. **Open question:** may just require Katalyst's help to schedule sending the files — if so, this could be the end of the data team's duty on this feature. Not yet confirmed by Bhavik.
 
 **Katalyst:**
 1. Transform the files — KHQ Remittance file, KHQ Batch Post file, Payment Notifier feed, and Remittance Generator feed — into the 3 outbound files (Origination, Remittance, Return).
 
 **Open / to clarify:**
 - [x] Reconcile the Vitalii "2 files" statement against Jaro's spreadsheet "3 outbound files" framing — resolved: 2 files is the data team's scope; the 3 outbound files are the overall pipeline's client-facing output, built by iDoxs + Katalyst/DocWeb/eLockBox, not data team.
+- [ ] **Confirm with Bhavik:** is item 2 (getting files into DocWeb) really just a Katalyst-scheduling dependency, ending the data team's duty once access is granted? If yes, revise estimate down to 1-2 sprints total.
+- [ ] Share the Remittance and Batch Post File v4 Confluence doc with Bhavik directly, per his alignment ask.
 - [ ] Engineering Manager sizing input still needed for the "New Best Case" / "New Worst Case" fields Alfred requested, scoped to the 2 KHQ files (Remittance, Batch Post).
 
 ## Feature 2: Consumer reports (Suffolk County Water Authority)
@@ -102,6 +122,43 @@ So the data team's estimate for Alfred should be scoped to the **2 KHQ files (Re
 - Data Analytics: **Bhavik Gandhi**
 
 This is the same body of work as the ongoing Consumer Activity Report / Consumer Enrollment Report effort (epic [ANALYTICS-4293](https://kubra.jira.com/browse/ANALYTICS-4293)) — high-level, the team has now reviewed both reports and landed on two concrete workstreams.
+
+### Terminology + strategic context: "Consumer Reports" vs. "Enrollment Reports," and the SCWA schema question
+
+**Question (Luciano): is "Consumer Reports" the same thing as "Enrollment Reports"?**
+
+Answer, researched via Atlassian Rovo and cross-checked against domain-knowledgeable colleagues — **no, Enrollment Report is one specific report inside the broader Consumer Reports category:**
+
+- **Similarities:** both are part of the BizHQ+ reporting suite tracking MyHQ+ platform interactions; both share common headings (Account Number, Email, Activity Time); both update every 4 hours; both are accessed via the Consumer tab in the BizHQ+ Reports dashboard. ([View Consumer Reports](https://kubra.jira.com/wiki/spaces/AG/pages/1783300149/View+Consumer+Reports))
+- **Scope/purpose:** the **Enrollment Report** is a snapshot of currently active enrolled consumers (excludes deleted consumers — [Consumer Reporting Requirements PRD](https://kubra.jira.com/wiki/spaces/AG/pages/1360462111/Consumer+Reporting+Requirements+-+PRD)). **Consumer Reports** (the category) is wider and includes the **Consumer Activity Report**, which tracks specific actions (profile creation, linking/unlinking accounts, verifying contact details) rather than just a point-in-time state ([View Consumer Reports](https://kubra.jira.com/wiki/spaces/AG/pages/1783300149/View+Consumer+Reports)).
+- **Consolidation vs. legacy:** legacy enrollment reports (iDoxs) were sent daily as separate, rigid files (AllUser, NewUser, DeletedUser, etc.). The new BizHQ+ Consumer Reports consolidate those legacy files into **4 standardized reports**: Consumer Enrollment, Consumer Activity, AutoPay Enrollment, AutoPay Activity ([FTS additions - Consumer and AutoPay Reports](https://kubra.jira.com/wiki/spaces/MIC/pages/1840152626/FTS+additions+-+Consumer+and+AutoPay+Reports)).
+- **Customization:** the new reports support FTS additions (clients can hide/rename/rearrange columns) — a departure from the rigid legacy structure.
+
+**Luciano's added context:** BizHQ+ Consumer Reports were deliberately designed to be **generic**, and today they satisfy most legacy "enrollment report" use cases. But — same pattern as PG&E CFM's "Custom Reports" — **every client has their own legacy file format** for receiving these enrollment-style reports.
+
+**SCWA-specific analysis (Luciano, a few weeks ago):** [Client Deep-dive - REPORTS § SCWA](https://kubra.jira.com/wiki/spaces/AG/pages/2070544397/Client+Deep-dive+-+REPORTS#SCWA---Suffolk-County-Water-Authority). SCWA's legacy reports are scheduled daily for client automation purposes, and map to the new BizHQ+ reports as follows (per Jaro's analysis):
+
+| Legacy report (iDoxs) | New BizHQ+ report |
+|---|---|
+| AllUsers | Consumer Enrollment Report |
+| ChangedUser | Consumer Activity Report (via filter) |
+| DeletedUser | Consumer Activity Report (via filter) |
+| NewUser | Consumer Activity Report (via filter) |
+| RecurringDetail | AutoPay Enrollment Report |
+
+**The core gap:** the BizHQ+ reports already have the underlying data for all of the above — but **removing, renaming, or reordering columns to match a client's legacy schema isn't something we have today.** This needs a separate internal decision:
+
+- **Option A — self-service:** force the client onto the new BizHQ+ schema as-is (no custom formatting). If chosen, the existing Consumer Reports tabs are sufficient — no extra engineering scope.
+- **Option B — legacy parity:** KUBRA keeps the client's exact legacy schema. If chosen, this requires additional engineering discussion around custom file formatting, which **increases the scope** of the Consumer Reports work being estimated here.
+
+**Who owns deciding this?** Not currently anyone — Luciano confirmed no one is having this "static schema vs. self-service" conversation yet. His pick for who should drive finding the answer: **Jaro**.
+
+**Historical framing (from designing these reports last year with Jaro and Erik):** the team hoped for self-service reporting rather than eLockbox-ing every report.
+- *Pros of eLockbox:* can custom-transform any file per client — fast, easy way to satisfy client reporting requirements.
+- *Cons of eLockbox:* custom file transformation becomes tech debt once it's baked into a client's automation flow (see: the extra work now required for PG&E CFM's strict formatting), plus a minor ongoing compute cost.
+- **Luciano's preference:** self-service scheduling from BizHQ+ — but the con is the client has to adjust their own systems to a new file schema, it eliminates an established legacy business process for MyHQ enrollment reports, and Luciano notes there's been **"a change of heart recently"** on this approach given how KUBRA ultimately handled PG&E CFM (i.e., caved to custom eLockbox formatting there).
+
+**Why this matters for Alfred's estimate:** if SCWA needs Option B (legacy schema parity via custom formatting), the Suffolk County Consumer Reports scope is larger than the two workstreams sized below — this open architectural question isn't priced in yet.
 
 ### Workstream 1 — Data team: add External ID column
 
@@ -128,6 +185,7 @@ Tracked in [ANALYTICS-4295](https://kubra.jira.com/browse/ANALYTICS-4295) (verif
 **Open / to clarify:**
 - [ ] These two workstreams have different owners (Data Analytics vs. Phil Rubio's team) and aren't dependent on each other — confirm with Alfred whether he wants them reported as one combined estimate or two separate ones.
 - [ ] Phil's 2-sprint estimate is sequential (investigate, then fix) — confirm whether "next sprint" + "the sprint after" lines up with a specific target date Alfred would want.
+- [ ] **Bigger open question:** does SCWA actually need legacy-schema parity (Option B above)? If so, this feature's scope grows beyond the 2 workstreams sized here. Nobody currently owns driving this decision — Luciano's suggestion is Jaro. Worth flagging to Alfred as a scope risk, not baking into the sprint numbers yet.
 
 ## Action items
 
@@ -136,6 +194,7 @@ Tracked in [ANALYTICS-4295](https://kubra.jira.com/browse/ANALYTICS-4295) (verif
 - [x] Luciano + Phil Rubio: size Suffolk County Consumer reports — resolved as two workstreams: Data Analytics External ID column (1 sprint, ANALYTICS-4294) + Phil Rubio's verification-event bug investigate/fix (2 sprints sequential, ANALYTICS-4295/4296).
 - [ ] Luciano: reply to Alfred by **August 4** with whichever estimates are ready (per-feature, no need to wait for both).
 - [ ] Luciano: send Alfred a high-level overview once this doc is clarified.
+- [ ] Luciano: raise the self-service-vs-legacy-schema question with Jaro — nobody currently owns driving this, and it affects scope for SCWA and likely other clients beyond just Suffolk.
 
 ## Related
 
@@ -143,6 +202,10 @@ Tracked in [ANALYTICS-4295](https://kubra.jira.com/browse/ANALYTICS-4295) (verif
 - [Remittance and Batch Post File v4](https://kubra.jira.com/wiki/spaces/AG/pages/2111504406/Remittance+and+Batch+Post+File+v4+-+draft+-+07+29+2026) — confirmed scope match for PG&E CFM's data-team deliverable
 - [PGECFM - Middleware for Outbound File processing](https://docs.google.com/drawings/d/1gna6BPG1s6TzxmTgZYOtPb--fY8g2V1AAuDybCFk3vA/edit) (Jaro Leken)
 - [PGECFM File Processing spreadsheet](https://docs.google.com/spreadsheets/d/1sklnHaMO6kUu2NSl_99C7nARAUlcjJ6fqWbIqD0YpPM/edit?gid=0#gid=0) (Jaro Leken) — file inventory; source of the conflicting "3 outbound files" framing
+- [View Consumer Reports](https://kubra.jira.com/wiki/spaces/AG/pages/1783300149/View+Consumer+Reports) — Consumer Reports vs. Enrollment Report terminology
+- [Consumer Reporting Requirements - PRD](https://kubra.jira.com/wiki/spaces/AG/pages/1360462111/Consumer+Reporting+Requirements+-+PRD)
+- [FTS additions - Consumer and AutoPay Reports](https://kubra.jira.com/wiki/spaces/MIC/pages/1840152626/FTS+additions+-+Consumer+and+AutoPay+Reports) — legacy-to-new report consolidation
+- [Client Deep-dive - REPORTS § SCWA](https://kubra.jira.com/wiki/spaces/AG/pages/2070544397/Client+Deep-dive+-+REPORTS#SCWA---Suffolk-County-Water-Authority) — Luciano's legacy-to-new report mapping analysis for Suffolk County Water Authority
 
 ## Draft response to Alfred (high-level)
 
@@ -158,25 +221,30 @@ Thanks for the context — here's where we landed on both, high-level:
 High-level, here are the teams involved in getting these reports out to PG&E CFM:
 
 - **Data team (KHQ files):**
-  1. Create a v4 draft of the Remittance and Batch Post file for DocWeb ingestion. (1 sprint)
-  2. Get those files into DocWeb for eLockBox transformation. *(Still pending/unknown — Bhavik is working with Vitalii to finalize this.)* (maybe 3 sprints? - unsure what the LOE is here)
+  1. Create a v4 draft of the Remittance and Batch Post file for DocWeb ingestion — 1 sprint of effort, spread over 2 sprints (per Bhavik).
+  2. Get those files into DocWeb for eLockBox transformation. *(Open question — see below.)*
+    - Data team needs help into understanding where they need these file dropped. a potential Katalyst question as they will be doing the elockbox configuration?
 - **Katalyst:** transforms the files — KHQ Remittance file, KHQ Batch Post file, Payment Notifier feed, and Remittance Generator feed — into the 3 outbound files (Origination, Remittance, Return).
 - **Unknown team — Payment Notifier & Remittance Generator:** owning team(s) not yet identified; also unknown whether any additional work is needed on these applications themselves, versus just consuming their existing output.
 
 Data Analytics team piece specifically is the KHQ Remittance file + KHQ Batch Post file (v4):
-1. Create the v4 draft — 1 sprint
-2. Get those files into DocWeb for eLockBox transformation — still pending confirmation with Vitalii, rough guess ~3 sprints
+1. Create the v4 draft — 2 sprints
+2. Get those files into DocWeb for eLockBox transformation — **Data Analytics open question**:  
+  - Data team needs help into understanding where they need these file dropped. a potential Katalyst question as they will be doing the elockbox configuration?
+    - remittance to schedule send at 5am EST.
+    - Batch post file to schedule at 9:30pm EST.
 
-- New Best Case: 3 sprint
-- New Worst Case: 5 sprints
+- New Best Case: ----
+- New Worst Case: ----
+
+Cannot give estimates as there are still a couple of open questions.
 
 **Consumer reports (Suffolk County Water Authority)**
 Two independent workstreams surfaced here, with different owners:
 - **Data Analytics:** add an External ID column to the Consumer Enrollment and Consumer Activity reports, so consumers who share the same email/phone can still be told apart — **1 sprint**.
 - **Consumer platform (Phil Rubio's team):** investigate and fix a bug where a contact-verification event isn't firing, which is why verified contact info shows up blank in the reports — **2 sprints, sequential** (1 to investigate, 1 to implement).
 
-- New Best Case: 2 sprints (if the two workstreams run in parallel)
-- New Worst Case: 3 sprints (if sequential, or either one slips)
+One flag for prioritization purposes: SCWA's legacy reports (AllUsers, ChangedUser, DeletedUser, NewUser, RecurringDetail) map to our new BizHQ+ reports, but we don't yet know if SCWA needs their exact legacy column formatting preserved or can move to our standard schema. If they need legacy parity, that's additional engineering scope not reflected in the numbers above — nobody's currently driving that decision, so it's not sized yet.
 
 Happy to break either of these down further if it'd help with prioritization.
 
