@@ -21,6 +21,10 @@ Entry point for the KUBRA Data Analytics knowledge graph. Open this repo as an O
 - [[Notifi-Reporting]]
 - [[KHQ-Billing]]
 
+## Reference
+
+- [[Terminology-Dictionary]] — people, products, acronyms, jargon; consult before transcribing or correcting a name
+
 ## Tools
 
 - Jira
