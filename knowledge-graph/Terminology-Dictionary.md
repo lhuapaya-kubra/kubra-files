@@ -57,6 +57,8 @@ Reference for correcting speech-to-text transcription errors and framing KUBRA c
 - **Colin Hendricks** (Senior Manager, Platform Engineering) — reports to Van Wolfe — variant: "Colin"
 - **Mounima Arrepu** (Quality Assurance Engineer) — reports to Miso Sipicki — variant: "Mona"
 - **Miso Sipicki** — manager of Mounima Arrepu (role otherwise unconfirmed); co-leads the Payment Integration 1 (PINT1) team, second co-lead not yet identified
+- **Rho Lall** — variants: "Row" — created ANALYTICS-4304 (PG&E Analytics Dashboards MVP), reviewed the top 10 candidate PG&E dashboards and opened the CPERD tickets driving the data engineering/Looker work
+- **Andrew Lin** — variants: "Andrew Lynn" — assignee on ANALYTICS-4328 (dim_account data quality findings); appears to own/support the account-side source system
 - **Noble Jacob** (Senior Manager, Product Engineering) — reports to Evan Ezewski — variant: "Noble" — co-owns the PAN Validation API / Platform 4 team alongside Chris Styka (PM)
 - Unidentified speaker(s), **"Thunder Canyon (Tempe, 5)"** conference room — diarization captured the room name, not a person; room had multiple occupants so speaker identity is unresolved
 - **Kelli Schroeder** — owns/coordinates NACHA/US Bank/Citibank implementation work (see EP-032)
