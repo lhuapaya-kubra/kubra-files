@@ -28,6 +28,7 @@ Reference for correcting speech-to-text transcription errors and framing KUBRA c
 - **Yuriy One** (Senior Software Engineer) — variants: "Yuri", "Fury" — deep knowledge of legacy contract/BizHQ config
 - **Miro Nagy** (former KUBRA employee) — variants: "Miro" — referenced as another name tied to the legacy config
 - **Brian Miller** — sits in product, longtime institutional memory of KUBRA business rules
+- **Elaine Guo** — variants (unconfirmed, inferred 2026-08-14): "a lane" — surfaced in a dictation about ANALYTICS-4364 ticket drafts where "a lane" didn't match any known person/team; Elaine is the ANALYTICS-4364 epic assignee and separately tied to a Looker doc (ANALYTICS-4224), which fits the dictation's context (Looker/BizHQ+ implementation work) — confirm with Luciano before treating this as settled
 - **Cynthia Hayward** — variants: "Cintia" (full name confirmed 7/14; previously tracked as "Cynthia")
 - **Aamna Qamar** (Manager, Invoice Payable team) — variants: "Amna", "Omnire"
 - **Christopher Shumac** — full name confirmed 7/14 (previously tracked as "Christopher") — not to be confused with Chris Styka (PM, Platform 4)
@@ -72,6 +73,11 @@ Reference for correcting speech-to-text transcription errors and framing KUBRA c
 - **Bart Wiechec** — raised the idea of sharing a 10 DLC across products (EZ-PAY+, Incident Watch, MyHQ)
 - **Tissan Ravindra** — KUBRA contact on the PG&E CFM account
 - **Jamel Singleton** — design lead at KUBRA; Harsha Remella escalating design-process speed directly to him
+- **Prat** (CXT) — full name unconfirmed; owns PG&E Analytics Dashboard requirements alongside Sheila (noted 08/10/2026)
+- **Sheila** (CXT) — full name unconfirmed; owns PG&E Analytics Dashboard requirements alongside Prat (noted 08/10/2026)
+- **Jerome Myers** — co-owns Data Team work alongside Bhavik Gandhi (noted 08/10/2026, iDoxs/PG&E Analytics Dashboard PRD)
+- **John Ross** (DBA Team) — full name/role unconfirmed beyond team; connects/passes iDoxs data through to the Data Team (noted 08/10/2026)
+- **Sasan** (DBA Team) — full name unconfirmed; connects/passes iDoxs data through to the Data Team alongside John Ross (noted 08/10/2026)
 
 ## Products / Systems
 
@@ -113,6 +119,7 @@ Reference for correcting speech-to-text transcription errors and framing KUBRA c
 - **Payment Integration 3** (Team) — co-led by Liliya Melnyk and Chris Styka; upgrading from Access File Sync
 - **Platform 6** (Team) — co-led by Brian Castellanos and Kelli Schroeder; owns the Payment Processor API/UI, PBO API/UI, Synthetic Ack Handler, and Temporal Scheduler
 - **Data Team** — co-led by Bhavik Gandhi and Luciano Huapaya; owns reports, the payment posting file, and the remittance file
+- **CXT** (Team) — acronym not yet expanded; owns PG&E Analytics Dashboard requirements (Prat, Sheila) (noted 08/10/2026)
 - **External Payments** — project nearing completion (Brian Castellanos, Divya Gadhiya); finishing it will free up team capacity currently split across payment-processor work
 - **FMS Nashville** — payment processor (see PBO); also the name of the KUBRA project implementing it, headed by Christopher Shumac, currently in direct resource contention with the NACHA/US Bank/Citigroup processor release effort
 - **NACHA Settlement Integration** — Atlas-tracked name for the multi-team US Bank NACHA processor release effort
