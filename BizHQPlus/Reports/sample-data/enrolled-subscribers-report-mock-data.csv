@@ -1,0 +1,16 @@
+Last Updated,First Name,Last Name,Email,External ID,Distributor,Account Number,Status,Paperless
+2026-08-22 14:32:05,James,Robinson,jamesrobinson@yahoo.com,ext-subscriber-001,fiserv,35678543397,true,true
+2026-08-22 14:32:05,James,Robinson,jamesrobinson@yahoo.com,ext-subscriber-001,fiserv,35678543412,true,false
+2026-08-21 09:12:41,Maria,Chen,mchen88@gmail.com,ext-subscriber-002,fiserv,88213340021,true,true
+2026-08-20 16:05:00,David,Okafor,d.okafor@outlook.com,ext-subscriber-003,FIS,44210098765,false,false
+2026-08-19 11:47:22,Sarah,Nguyen,sarah.nguyen@icloud.com,ext-subscriber-004,fiserv,12987654321,true,true
+2026-08-18 08:00:00,Miguel,Alvarez,malvarez77@hotmail.com,ext-subscriber-005,FIS,90345678123,false,false
+2026-08-17 19:23:10,Emily,Turner,emily.turner@yahoo.com,ext-subscriber-006,fiserv,55678901234,true,true
+2026-08-17 19:23:10,Emily,Turner,emily.turner@yahoo.com,ext-subscriber-006,fiserv,55678901298,true,true
+2026-08-16 13:55:37,Maria,Chen,mariachen22@yahoo.com,ext-subscriber-007,fiserv,33445566778,true,false
+2026-08-15 07:40:15,Aisha,Bello,aisha.bello@yahoo.com,ext-subscriber-008,FIS,10293847561,true,true
+2026-08-14 22:18:59,Tom,Wright,twright@aol.com,ext-subscriber-009,fiserv,77889900112,false,false
+2026-08-13 10:02:44,Linda,Park,linda.park@gmail.com,ext-subscriber-010,fiserv,66554433221,true,true
+2026-08-12 15:30:00,Carlos,Mendez,cmendez@yahoo.com,ext-subscriber-011,FIS,20938475610,true,true
+2026-08-11 06:12:08,Nina,Petrova,nina.petrova@outlook.com,ext-subscriber-012,fiserv,84756392010,false,false
+2026-08-10 12:00:00,Ana,Rivera,ana.rivera@gmail.com,ext-subscriber-001,FIS,50192837465,true,true
