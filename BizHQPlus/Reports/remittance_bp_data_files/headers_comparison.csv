@@ -1,0 +1,51 @@
+NOTE ->,City of Stamford is the only client with TWO separate file types below (Remittance and Batch Post) with different columns - flagging since this wasn't realized before,,,,,
+NOTE 2 ->,"City of Philly (v4.01) column below is pulled from the DRAFT requirements doc - no live file exists yet. Tags used: (NEW) = net-new field; (PENDING REVIEW) / (UNDER DISCUSSION) = open item not yet finalized.",,,,,
+CONFLUENCE SPEC ->,,,,,,https://kubra.jira.com/wiki/spaces/AG/pages/2111504406/Remittance+and+Batch+Post+File+v4+-+finalized+08+05+2026,https://kubra.jira.com/wiki/spaces/AG/pages/2145190001/Remittance+and+Batch+Post+File+v4.01+-+draft
+,clients ->,City of Scottsdale,City of Stamford,City of Stamford,POLB & LCPH,PG&E CFM (no client live yet),City of Philly (no client live yet)
+,version ->,v1,v2,v2,v3,v4,v4.01 (draft)
+,purpose ->,Remittance,Remittance,Batch Post,Remittance,Remittance,Remittance & Batch Post (shared layout per spec)
+order,columns v,,,,,,
+1,,transactionDate,accountNumber,accountNumber,transactionDate,transactionDate,transactionEntryDateTime (NEW)
+2,,originalPaymentDate,confirmationNumber,confirmationNumber,originalPaymentDate,originalPaymentDate,transactionDate
+3,,expectedRemitDate,status,status,expectedRemittanceDate,expectedRemittanceDate,orginalPaymentDate
+4,,accountNumber,paymentDate,paymentDate,payableTypeName,payableTypeName,expectedRemittanceDate
+5,,confirmationNumber,transactionDate,transactionDate,payableTypeKRN,payableTypeKRN,itemType
+6,,status,expectedRemittanceDate,expectedRemittanceDate,externalId,externalId,itemTypeLabel (NEW)
+7,,message,transactionAmount,transactionAmount,accountNumber,accountNumber,accountNumber
+8,,code,originalPaymentAmount,originalPaymentAmount,invoiceNumber,invoiceNumber,invoiceNumber
+9,,transactionAmount,product,product,quantity,quantity,externalID
+10,,originalPaymentAmount,channel,channel,businessUnitCode,businessUnitCode,FTI (NEW)
+11,,originalDonationAmount,fundingSourceType,fundingSourceType,confirmationNumber,confirmationNumber,FTINumber (NEW)
+12,,donations,methodOfPaymentCode,methodOfPaymentCode,status,status,TD (NEW)
+13,,originalFeeAmount,message,message,message,message,quantity
+14,,originalTotalAmount,maskedPaymentAccount,maskedPaymentAccount,code,code,businessUnitCode
+15,,fundingSourceType,holderName,holderName,transactionAmount,transactionAmount,confirmationNumber
+16,,methodOfPaymentCode,creditCardExpiry,,originalBilledAmount,originalBilledAmount,transactionStatus
+17,,maskedPaymentAccount,creditCardPostalCode,,originalPayableAmount,originalPayableAmount,message
+18,,holderName,,,originalPaymentAmount,originalPaymentAmount,code
+19,,principleType,,,originalDonationAmount,originalDonationAmount,transactionAmount
+20,,principleId,,,donations,donations,orginalBilledAmount
+21,,emailAddress,,,originalFeeAmount,originalFeeAmount,orginalPayableAmount
+22,,phoneNumber,,,originalTotalAmount,originalTotalAmount,orginalPaymentAmount
+23,,product,,,feeClass,feeClass,orginalDonationAmount
+24,,channel,,,fundingSourceType,fundingSourceType,donations
+25,,,,,methodOfPaymentCode,methodOfPaymentCode,orginalFeeAmount
+26,,,,,maskedPaymentAccount,maskedPaymentAccount,orginalTotalAmount
+27,,,,,holderName,holderName,feeClass
+28,,,,,principalType,principalType,fundingSourceType
+29,,,,,principalId,principalId,methodOfPaymentCode
+30,,,,,notificationEmailAddress,notificationEmailAddress,maskedPaymentAccount (PENDING REVIEW)
+31,,,,,notificationPhoneNumber,notificationPhoneNumber,holderName
+32,,,,,lookupFields,lookupFields,principalType (UNDER DISCUSSION)
+33,,,,,extensionFields,extensionFields,principalID
+34,,,,,passThrough,passThrough,notificationEmailAddress
+35,,,,,product,Payment Source,notificationPhoneNumber
+36,,,,,channel,,lookupFields
+37,,,,,,,extensionFields
+38,,,,,,,passThrough
+39,,,,,,,paymentProcessor
+40,,,,,,,paymentSource
+41,,,,,,,paymentSourceLabel (NEW)
+42,,,,,,,partner
+43,,,,,,,partnerLabel (NEW)
+44,,,,,,,brand (PENDING REVIEW)

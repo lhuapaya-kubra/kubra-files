@@ -1,0 +1,4 @@
+,Enrollment Time,Email,Account Number,Item Type,Profile Type,Schedule Type,Fixed Schedule Amount,Fixed Schedule Day of Week,Fixed Schedule Day of Biweekly,Fixed Schedule Day of Month,Dynamic Schedule Max Amount,Dynamic Schedule Days,Funding Source Type,Masked PAN,End Condition,Profile Never Ends Type,Profile End Date,Ends After Number of Payments
+1,2026-08-24 18:06:22,cynthia.j.hayward@gmail.com,220000003762220,utilityAccountMyHq,dynamic,dynamic_before_due_date,,,,,,5,CreditCard,1111,end_never,EndNever,,
+2,2026-08-24 18:06:22,caspercat13@hotmail.com,220000003762220,utilityAccountMyHq,dynamic,dynamic_before_due_date,,,,,,5,CreditCard,1111,end_never,EndNever,,
+3,2026-08-24 14:11:08,ramtestaccount@yahoo.com,220000004103477,propertyTaxesMyHq,dynamic,dynamic_before_due_date,,,,,$500.00,3,CreditCard,4448,end_never,EndNever,,

@@ -1,6 +1,6 @@
 ---
 name: fe-jira-ticket
-description: Create a front-end/UI Jira ticket for ConfigHQ products — Datafeed (DF), File Transformation Service (FTS), SFTP Mailbox Manager (SMM) — using the team's UI ticket template (User Story, Screenshots/Figma, Background Info, Stakeholders, Deviations, UI Elements, Acceptance Criteria). Drafts for review, creates the Jira issue, and logs it as reference in Confluence and this vault. Trigger on "FE ticket", "front-end ticket", "UI ticket", "create a Datafeed/FTS/SMM ticket".
+description: Create a front-end/UI Jira ticket for ConfigHQ products — Datafeed (DF), File Transformation Service (FTS), SFTP Mailbox Manager (SMM) — using the team's UI ticket template (User Story, Screenshots/Figma, Background Info, Stakeholders, Deviations, UI Elements, Acceptance Criteria). Drafts for review, creates the Jira issue, and logs it as reference in this vault. Trigger on "FE ticket", "front-end ticket", "UI ticket", "create a Datafeed/FTS/SMM ticket".
 ---
 
 # FE Jira ticket (ConfigHQ: DF / FTS / SMM)
@@ -17,11 +17,11 @@ Read `reference/template.md` (blank guiding questions) and `reference/example.md
 
 Ask which project if not already clear from the request:
 
-| Say | Project key | Confluence space (MIC) ticket-log page | UI component | kubra-files product folder |
-|---|---|---|---|---|
-| Datafeed | `DF` | 2112454949 | `Datafeed Config UI` (id 27290) | `ConfigHQ/Datafeed/` |
-| File Transformation Service / FTS | `FTS` | 2112815311 | `FTS UI` (id 28991) | `ConfigHQ/File-Transformation-Service/` |
-| SFTP Mailbox Manager / SMM | `SMM` | 2112618743 | `SMM UI` (id 33225) | `ConfigHQ/SFTP-Mailbox-Manager/` |
+| Say | Project key | UI component | kubra-files product folder |
+|---|---|---|---|
+| Datafeed | `DF` | `Datafeed Config UI` (id 27290) | `ConfigHQ/Datafeed/` |
+| File Transformation Service / FTS | `FTS` | `FTS UI` (id 28991) | `ConfigHQ/File-Transformation-Service/` |
+| SFTP Mailbox Manager / SMM | `SMM` | `SMM UI` (id 33225) | `ConfigHQ/SFTP-Mailbox-Manager/` |
 
 cloudId for all: `kubra.jira.com`. Issue type: default **Story** (id `6`) unless the user says this is a bug fix (`Bug`) or a smaller chore (`Task`).
 
@@ -66,6 +66,5 @@ If a field call errors (schema drift), re-verify with `mcp__atlassian__getJiraIs
 
 ## Step 5 — Log the reference (per this vault's standing workflow)
 
-1. **Confluence**: fetch the project's ticket-log page (id from the table above, `getConfluencePage`), append one row — Date | linked ticket key | summary | short note — via `updateConfluencePage`.
-2. **kubra-files**: create `{product folder}/jira/{TICKET-KEY}.md` using `templates/jira-ticket-template.md`, filled in with the ticket content, `[[product]]` wikilink.
-3. Report back: the Jira ticket link, the Confluence log link, and the local file path.
+1. **kubra-files**: create `{product folder}/jira/{TICKET-KEY}.md` using `templates/jira-ticket-template.md`, filled in with the ticket content, `[[product]]` wikilink.
+2. Report back: the Jira ticket link and the local file path.

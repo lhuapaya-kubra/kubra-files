@@ -8,7 +8,7 @@ source: "KUBRA iDoxs Suite - Enrollment Reports - ImplementationGuide.pdf (CONFI
 
 # KUBRA iDoxs Suite — Enrollment Reports Implementation Guide
 
-Transcribed from the internal PDF `KUBRA iDoxs Suite Enrollment Reports - ImplementationGuide.pdf`, shared 2026-08-24. Reproduced in full — this is schema/field-name documentation, not customer data, so no PII concern per the vault's PII rule.
+Transcribed from the source document, [KUBRA iDoxs Suite — Enrollment Reports - ImplementationGuide](https://docs.google.com/document/d/12EbO0xZenlF9YCb9OgmU61rtQF60lLF6r2qyBmteNgA/edit?tab=t.0#heading=h.xlomrnfv0lx0) (CONFIDENTIAL — KUBRA Internal Use Only), shared 2026-08-24. Reproduced in full — this is schema/field-name documentation, not customer data, so no PII concern per the vault's PII rule.
 
 ## Overview
 
