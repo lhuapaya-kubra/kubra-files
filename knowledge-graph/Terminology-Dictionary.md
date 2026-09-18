@@ -84,7 +84,7 @@ Reference for correcting speech-to-text transcription errors and framing KUBRA c
 - **KUBRA HQ (KHQ)** — supporting platform
 - **MyHQ+** — product on the platform
 - **BizHQ+** — product on the platform — variants: "BHQ", "business Q", "visage Q"
-- **EZ-PAY+** — product on the platform — variants: "EasyPay"
+- **EZ-PAY+** — product on the platform — variants: "EasyPay", "ECPA+"
 - **iMail** — variants: "IMA"
 - **DocWeb** (KUBRA Processing System) — variants: "dock web"
 - **iDoxs** — variants: "IDOC", "IDOS", "ID docs", "Idox", "idocs", "iDog", "IDOG"

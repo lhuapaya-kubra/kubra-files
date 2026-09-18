@@ -1,7 +1,7 @@
 ---
 title: Initiatives ↔ Epics Tracker
 scope: Platform 1 (DF, FTS, SMM) + Data & Analytics (ANALYTICS)
-last_updated: 2026-08-31
+last_updated: 2026-09-15
 source: kubra.jira.com JQL — project in (DF, SMM, FTS, ANALYTICS) AND issuetype = Epic AND statusCategory != Done
 ---
 
@@ -9,15 +9,15 @@ source: kubra.jira.com JQL — project in (DF, SMM, FTS, ANALYTICS) AND issuetyp
 
 Running list for the new Jira policy of linking Epics to Initiatives. Initiatives live in the **KUBRA** project (issue type `Initiative`, hierarchy level above Epic) and are linked via each Epic's `parent` field. Scope below is every **open or in-progress** Epic across Platform 1 (Datafeed, FTS, SMM) and the Data & Analytics team (ANALYTICS).
 
-**Snapshot: 65 open/in-progress epics total — 14 (22%) are linked to an Initiative: 9 in ANALYTICS, 3 in FTS, 2 in SMM.**
+**Snapshot: 60 open/in-progress epics total — 17 (28%) are linked to an Initiative: 12 in ANALYTICS, 3 in FTS, 2 in SMM.**
 
 | Project | Open/In Progress Epics | Linked to an Initiative |
 |---|---|---|
-| ANALYTICS | 41 | 9 |
-| DF | 8 | 0 |
-| FTS | 12 | 3 |
-| SMM | 4 | 2 |
-| **Total** | **65** | **14** |
+| ANALYTICS | 44 | 12 |
+| DF | 4 | 0 |
+| FTS | 9 | 3 |
+| SMM | 3 | 2 |
+| **Total** | **60** | **17** |
 
 ---
 
@@ -28,6 +28,8 @@ Running list for the new Jira policy of linking Epics to Initiatives. Initiative
 
 ### KUBRA-35 — KHQ Data Migration (In Progress)
 - ANALYTICS-4186 — KHQ migration - Data Migration (Data Analytics) 2026 (Open)
+- ANALYTICS-4509 — KHQ Data Migration - FusionAuth Deltashare Table, AdoxsDirect & Static (MO Preparation) (In Progress) *(new epic found 2026-09-15 re-scan, already parented to KUBRA-35)*
+- ANALYTICS-4539 — KHQ Data Migration - Consumer IR Table (MO Preparation) (Blocked) *(new epic found 2026-09-15 re-scan, already parented to KUBRA-35)*
 
 ### KUBRA-111 — BizHQ+ Reports - Mapping Reports (Open)
 - ANALYTICS-4364 — BizHQ+ Reports - Mapping Report (In Progress)
@@ -50,6 +52,9 @@ Running list for the new Jira policy of linking Epics to Initiatives. Initiative
 ### KUBRA-116 — PG&E Analytics Dashboards MVP [Payments Reporting] (In Progress)
 - ANALYTICS-4304 — PG&E Analytics Dashboards MVP [Payments Reporting] (In Progress) *(new Initiative created and linked 2026-08-26 — internal, CSM-driven ask to help retain PG&E, KUBRA's largest client (~$1M/month gross profit on payments transactions), following prior vendor-switch tension; scoped to payments-dashboarding MVP only)*
 
+### KUBRA-183 — Payment Intent Reporting (Internal Reporting) (Open)
+- ANALYTICS-4512 — Payment Intent Reporting (Internal Reporting) (Open) *(new Initiative + Epic, found 2026-09-15 re-scan — not yet individually confirmed with the requesting team; flagging for follow-up)*
+
 ### KUBRA-118 — SFTP Mailbox Manager (In Progress)
 - SMM-1 — SFTP Mailbox Manager (In Progress) *(new Initiative created and linked 2026-08-26 — Platform 1's first Initiative-linked epic; internal/engineering-driven, to retire the manually-configured "DSO SFTP mailbox" in GitHub and let Service Delivery self-serve SFTP mailbox creation via UI instead of depending on engineering, for clients receiving remittance/batch post files daily over SFTP. Epic description updated with links to the PRD ([SFTP Mailbox Manager - PRD](https://kubra.jira.com/wiki/spaces/MIC/pages/1916043435/SFTP+Mailbox+Manager+-+PRD), APPROVED) and TRD ([SFTP Mailbox Manager API](https://kubra.jira.com/wiki/spaces/MIC/pages/1927479332/SFTP+Mailbox+Manager+API))*
 
@@ -71,8 +76,9 @@ Running list for the new Jira policy of linking Epics to Initiatives. Initiative
 
 | Key | Summary | Status |
 |---|---|---|
+| ANALYTICS-4545 | PM Revenue Visibility — SOW Fee Structure & Revenue Dashboard | Open |
+| ANALYTICS-4535 | Improving Remittance and Batch Post Data File sending via RBO | Open |
 | ANALYTICS-4392 | iDoxs Pipeline — Future PG&E Data Sources (Post-Payments MVP) | Open |
-| ANALYTICS-4363 | Sumo Logic to Splunk Migration - Data Analytics | Open |
 | ANALYTICS-4343 | Looker Operations 2026 | Open |
 | ANALYTICS-4342 | Data Analytics Spike Backlog - Pending Triage | Open |
 | ANALYTICS-4341 | Text-to-Report POC — Natural Language Report Generation | Open |
@@ -102,48 +108,52 @@ Running list for the new Jira policy of linking Epics to Initiatives. Initiative
 | ANALYTICS-3204 | Notifi Reporting 2026 - Support/SD | In Progress |
 | ANALYTICS-3057 | IVR+ Ingestion and Reporting | In Progress |
 | ANALYTICS-2998 | Internal reports - Level 1/level 2. | In Progress |
-| ANALYTICS-2782 | Payment Ops - Data Analytics 2026 | In Progress |
 
-### DF — Datafeed (8)
+### DF — Datafeed (4)
 
 | Key | Summary | Status |
 |---|---|---|
 | DF-1322 | Datafeed Migration | Open |
 | DF-1418 | KHQ Datafeed Status integration | In Progress |
-| DF-1414 | Datafeed v1 KARP Review Compliance | In Progress |
-| DF-1377 | Datafeed v3 KARP Review Compliance | In Progress |
 | DF-1362 | File Statuses | In Progress |
 | DF-1138 | Datafeed v3 bugs and tech debt | In Progress |
-| DF-1087 | DF Tech Debt | In Progress |
-| DF-1036 | Datafeed ConfigHQ UI Updates | In Progress |
 
-### FTS — File Transformation Service (9)
+### FTS — File Transformation Service (6)
 
 | Key | Summary | Status |
 |---|---|---|
 | FTS-370 | Migrate to SFTP Mailbox Manager | Open |
 | FTS-305 | FTS Custom File Imports | Open |
-| FTS-227 | FTS UI Audit - UX/UI | Open |
 | FTS-15 | Code-Based FTS Service | Open |
-| FTS-383 | FTS Improvements 2Q 2026 | In Progress |
-| FTS-346 | FTS KARP Review Compliance | In Progress |
+| FTS-383 | FTS Improvements/Tech Debt 2Q 2026 | In Progress |
 | FTS-228 | FTS / Datafeed Integration | In Progress |
-| FTS-200 | FTS - Tech Debt 1H 2026 | In Progress |
 | FTS-1 | FTS API | In Progress |
 
-### SMM — SFTP Mailbox Manager (2)
+### SMM — SFTP Mailbox Manager (1)
 
 | Key | Summary | Status |
 |---|---|---|
-| SMM-60 | PGP Support | Open |
 | SMM-50 | SMM Improvements & Ideas | Open |
 
 ---
 
 ## Notes / open questions
 
+- **2026-09-15 re-scan — 9 epics closed since 2026-08-31, all confirmed by individual lookup (none moved/deleted, all landed in a Done-category status):**
+  - **SMM-60 — PGP Support** → closed **Won't Do** same day, per [comment on SMM-60](https://kubra.jira.com/browse/SMM-60?focusedCommentId=471013) from Evan Ezewski: PGP encryption support is being dropped (discussed with Vitalii Djiguir and Jaro Leken) — clients who want extra encryption can keep using DocWeb instead. Its two children (SMM-61, FTS-425) were closed the same way (status Done, resolution Won't Do — their workflow has no standalone "Won't Do" status like the Epic workflow does).
+  - **DF-1414, DF-1377** (KARP Review Compliance, v1 and v3) → Done, resolution **Duplicate**.
+  - **DF-1087** (DF Tech Debt), **DF-1036** (Datafeed ConfigHQ UI Updates) → Done.
+  - **FTS-227** (FTS UI Audit - UX/UI) → **Won't Do**.
+  - **FTS-346** (FTS KARP Review Compliance) → Done, resolution **Duplicate**.
+  - **FTS-200** (FTS - Tech Debt 1H 2026) → Done.
+  - **ANALYTICS-4363** (Sumo Logic to Splunk Migration), **ANALYTICS-2782** (Payment Ops - Data Analytics 2026) → Done.
+  - None of these were Initiative-linked epics, so §1 is unaffected by the closures.
+- **2026-09-15 re-scan — 5 new epics appeared, 3 of them already Initiative-linked:**
+  - **ANALYTICS-4509** and **ANALYTICS-4539** are both parented to the existing **KUBRA-35** Initiative (alongside ANALYTICS-4186) — KHQ Data Migration work split into more epics; ANALYTICS-4539 is currently status **Blocked**.
+  - **ANALYTICS-4512** came in already parented to a **net-new Initiative, KUBRA-183** ("Payment Intent Reporting (Internal Reporting)") — first sighting of this Initiative in this tracker; who created it and when hasn't been individually confirmed yet.
+  - **ANALYTICS-4535** and **ANALYTICS-4545** are unlinked. ANALYTICS-4545 is the epic for the PM Revenue Visibility initiative (SOW fee master config + Looker dashboard, MVP = current 4 clients) — it doesn't have a KUBRA parent set yet, worth checking whether that's intentional or just not wired up.
 - All Initiatives observed so far live in the **KUBRA** project. Platform 1 (DF/FTS/SMM) now has two Initiatives with linked epics (KUBRA-118 ↔ SMM-1, KUBRA-122 ↔ FTS-379) plus a third that's cross-team (KUBRA-121 ↔ SMM-70 + FTS-403) — DF still has none; worth checking with the team whether a DF-scoped initiative exists yet or still needs to be created.
 - Linkage is via the Epic's `parent` field (not an issue link or label) — confirm this is the sanctioned mechanism under the new policy before treating unlinked epics as non-compliant.
 - **2026-08-31: SMM-70 was missing from this tracker entirely** — it was created 2026-08-27 (one day before the 2026-08-28 scan) already linked to KUBRA-121, but the scan that produced §2's SMM table below didn't pick it up. Caught while wiring up KUBRA-121 (renamed from "External SFTP File Delivery" to "External Destination - SFTP outside KUBRA" the same day, to reflect that SFTP is Phase 1 of a two-channel concept — email is Phase 2, not yet scoped). Worth a full re-run of the source JQL to check for other silent gaps like this one rather than trusting incremental edits going forward.
-- The KUBRA project holds 61 Initiatives total (60 open/in-progress, 1 Done) after KUBRA-181 was created 2026-08-31. §1 above covers the 14 with a linked epic: 6 from the original epic-parent scan, plus KUBRA-40 ↔ ANALYTICS-4368 and KUBRA-122 ↔ FTS-379 (existing Initiatives, link had never been set), KUBRA-115 ↔ ANALYTICS-4204 and KUBRA-116 ↔ ANALYTICS-4304 (net-new Initiatives, created for those epics), KUBRA-121 ↔ SMM-70 + FTS-403 (existing Initiative, SMM-70 link pre-existing, FTS-403 link set 2026-08-31), and KUBRA-181 ↔ FTS-439 (net-new Initiative + placeholder Epic, both created 2026-08-31 as KUBRA-121's Phase 2/email sibling). Most of the other ~47 pre-existing Initiatives look scoped to other platforms (Payments, MyHQ+, BizPAY+, KHQ, etc.), but that hasn't been individually verified — a full name-match pass against the remaining unlinked epics in §2 would catch any other gaps like these.
-- This is a point-in-time pull (2026-08-26, updated 2026-08-28 for FTS-379, updated 2026-08-31 for KUBRA-121/SMM-70/FTS-403 and again same day for KUBRA-181/FTS-439); re-run the JQL above to refresh rather than hand-editing counts.
+- The KUBRA project holds Initiatives beyond the ones tracked here (61 as of the 2026-08-31 pull, now at least 62 with KUBRA-183). §1 above covers the ones with a linked epic in scope. Most of the other pre-existing Initiatives look scoped to other platforms (Payments, MyHQ+, BizPAY+, KHQ, etc.), but that hasn't been individually verified — a full name-match pass against the remaining unlinked epics in §2 would catch any other gaps like these.
+- This is a point-in-time pull (2026-08-26, updated 2026-08-28 for FTS-379, updated 2026-08-31 for KUBRA-121/SMM-70/FTS-403 and again same day for KUBRA-181/FTS-439, fully re-run 2026-09-15 to reconcile closures and new links); re-run the JQL above to refresh rather than hand-editing counts.
