@@ -24,6 +24,14 @@ Part of [[BizHQPlus]].
 - Confluence: `BizHQPlus/Reports/confluence/`
 - Diagrams: `BizHQPlus/Reports/diagrams/`
 
+### Specs
+
+- [[cumulative-and-aggregate-reporting-prd]] — cumulative vs. aggregate level reporting PRD (draft, 2026-10-09)
+
+### Confluence pages
+
+- [[aggregate-payment-report]] — aggregate payment report requirements (draft, 2026-10-08)
+
 ## Related
 
 - [[BizHQPlus]]
